@@ -1,0 +1,1644 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+                    <title>
+        “Light precisará de muito capex para se viabilizar,” diz CEO - Brazil Journal</title>
+    
+    <!-- bootstrap datalayer -->
+    <!-- Optimized with WP Meteor v3.3.3 - https://wordpress.org/plugins/wp-meteor/ --><script data-wpmeteor-nooptimize="true" >var _wpmeteor={"gdpr":true,"rdelay":2000,"preload":true,"v":"3.3.3","rest_url":"https:\/\/braziljournal.com\/wp-json\/"};(()=>{try{new MutationObserver(function(){}),new PerformanceObserver(function(){}),Object.assign({},{}),document.fonts.ready.then(function(){})}catch{t="wpmeteordisable=1",i=document.location.href,i.match(/[?&]wpmeteordisable/)||(o="",i.indexOf("?")==-1?i.indexOf("#")==-1?o=i+"?"+t:o=i.replace("#","?"+t+"#"):i.indexOf("#")==-1?o=i+"&"+t:o=i.replace("#","&"+t+"#"),document.location.href=o)}var t,i,o;})();
+
+</script><script data-wpmeteor-nooptimize="true" >(()=>{var M=class{constructor(){this.l=[]}emit(e,r=null){this.l[e]&&this.l[e].forEach(n=>n(r))}on(e,r){this.l[e]||=[],this.l[e].push(r)}off(e,r){this.l[e]=(this.l[e]||[]).filter(n=>n!==r)}};var h=new M;var _e=()=>Math.round(performance.now())/1e3;var ke=document,Gt="DOMContentLoaded",T=class{constructor(){this.known=[]}init(){let e,r,n=!1,o=s=>{if(!n&&s&&s.fn&&!s.__wpmeteor){let d=function(i){return ke.addEventListener(Gt,c=>{i.bind(ke)(s,c,"jQueryMock")}),this};this.known.push([s,s.fn.ready,s.fn.init.prototype.ready]),s.fn.ready=d,s.fn.init.prototype.ready=d,s.__wpmeteor=!0}return s};window.jQuery&&(e=o(window.jQuery)),Object.defineProperty(window,"jQuery",{get(){return e},set(s){e=o(s)}}),Object.defineProperty(window,"$",{get(){return r},set(s){r=o(s)}}),h.on("l",()=>n=!0)}unmock(){this.known.forEach(([e,r,n])=>{e.fn.ready=r,e.fn.init.prototype.ready=n})}};var xe={};((t,e)=>{try{let r=Object.defineProperty({},e,{get:function(){return xe[e]=!0}});t.addEventListener(e,null,r),t.removeEventListener(e,null,r)}catch{}})(window,"passive");var le=xe;var Ae=window,V=document,pe="addEventListener",ue="removeEventListener",Y="removeAttribute",X="getAttribute",Ut="setAttribute",Re="DOMContentLoaded",Ne=["mouseover","keydown","touchmove","touchend","wheel"],Me=["mouseover","mouseout","touchstart","touchmove","touchend","click"],B="data-wpmeteor-";var P=class{init(){let e=!1,r=!1,n=c=>{e||(e=!0,Ne.forEach(l=>V.body[ue](l,n,le)),clearTimeout(r),h.emit("fi"))},o=c=>{let l=new MouseEvent("click",{view:c.view,bubbles:!0,cancelable:!0});return Object.defineProperty(l,"target",{writable:!1,value:c.target}),l};h.on("i",()=>{e||n()});let s=[],d=c=>{c.target&&"dispatchEvent"in c.target&&(c.type==="click"?(c.preventDefault(),c.stopPropagation(),s.push(o(c))):c.type!=="touchmove"&&s.push(c),c.target[Ut](B+c.type,!0))};h.on("l",()=>{Me.forEach(_=>Ae[ue](_,d));let c;for(;c=s.shift();){var l=c.target;l[X](B+"touchstart")&&l[X](B+"touchend")&&!l[X](B+"click")?(l[X](B+"touchmove")||(l[Y](B+"touchmove"),s.push(o(c))),l[Y](B+"touchstart"),l[Y](B+"touchend")):l[Y](B+c.type),l.dispatchEvent(c)}});let i=()=>{Ne.forEach(c=>V.body[pe](c,n,le)),Me.forEach(c=>Ae[pe](c,d)),V[ue](Re,i)};V[pe](Re,i)}};var Te=document,Z=Te.createElement("span");Z.setAttribute("id","elementor-device-mode");Z.setAttribute("class","elementor-screen-only");var Bt=!1,Pe=()=>(Bt||Te.body.appendChild(Z),getComputedStyle(Z,":after").content.replace(/"/g,""));var ee=window,Fe=document,Ie=Fe.documentElement;var We="getAttribute",ze="setAttribute",qe=t=>t[We]("class")||"",He=(t,e)=>t[ze]("class",e),je=()=>{window.addEventListener("load",function(){let t=Pe(),e=Math.max(Ie.clientWidth||0,ee.innerWidth||0),r=Math.max(Ie.clientHeight||0,ee.innerHeight||0),n=["_animation_"+t,"animation_"+t,"_animation","_animation","animation"];Array.from(Fe.querySelectorAll(".elementor-invisible")).forEach(o=>{let s=o.getBoundingClientRect();if(s.top+ee.scrollY<=r&&s.left+ee.scrollX<e)try{let i=JSON.parse(o[We]("data-settings"));if(i.trigger_source)return;let c=i._animation_delay||i.animation_delay||0,l,_;for(var d=0;d<n.length;d++)if(i[n[d]]){_=n[d],l=i[_];break}if(l){let Oe=qe(o),Lt=l==="none"?Oe:Oe+" animated "+l,bt=setTimeout(()=>{He(o,Lt.replace(/\belementor-invisible\b/,"")),n.forEach(Dt=>delete i[Dt]),o[ze]("data-settings",JSON.stringify(i))},c);h.on("fi",()=>{clearTimeout(bt),He(o,qe(o).replace(new RegExp("\b"+l+"\b"),""))})}}catch(i){console.error(i)}})})};var fe=document,Qe="getAttribute",Ct="setAttribute",me="querySelectorAll",Ke="data-in-mega_smartmenus",$e=()=>{let t=fe.createElement("div");t.innerHTML='<span class="sub-arrow --wp-meteor"><i class="fa" aria-hidden="true"></i></span>';let e=t.firstChild,r=n=>{let o=[];for(;n=n.previousElementSibling;)o.push(n);return o};fe.addEventListener("DOMContentLoaded",function(){Array.from(fe[me](".pp-advanced-menu ul")).forEach(n=>{if(n[Qe](Ke))return;(n[Qe]("class")||"").match(/\bmega-menu\b/)&&n[me]("ul").forEach(d=>{d[Ct](Ke,!0)});let o=r(n),s=o.filter(d=>d).filter(d=>d.tagName==="A").pop();if(s||(s=o.map(d=>Array.from(d[me]("a"))).filter(d=>d).flat().pop()),s){let d=e.cloneNode(!0);s.appendChild(d),new MutationObserver(c=>{c.forEach(({addedNodes:l})=>{l.forEach(_=>{if(_.nodeType===1&&_.tagName==="SPAN")try{s.removeChild(d)}catch{}})})}).observe(s,{childList:!0})}})})};var v="DOMContentLoaded",y="readystatechange",b="message";var K="SCRIPT",St=()=>{},x=console.error,u="data-wpmeteor-",U=Object.defineProperty,De=Object.defineProperties,Ge="javascript/blocked",at=/^(text\/javascript|module)$/i,dt="requestAnimationFrame",lt="requestIdleCallback",oe="setTimeout",p=window,a=document,w="addEventListener",ie="removeEventListener",f="getAttribute",q="setAttribute",N="removeAttribute",G="hasAttribute",m="load",ce="error",$=p.constructor.name+"::",J=a.constructor.name+"::",pt=function(t,e){e=e||p;for(var r=0;r<this.length;r++)t.call(e,this[r],r,this)};"NodeList"in p&&!NodeList.prototype.forEach&&(NodeList.prototype.forEach=pt);"HTMLCollection"in p&&!HTMLCollection.prototype.forEach&&(HTMLCollection.prototype.forEach=pt);_wpmeteor["elementor-animations"]&&je();_wpmeteor["elementor-pp"]&&$e();var D=[],k=[],Je=window.innerHeight||document.documentElement.clientHeight,Ve=window.innerWidth||document.documentElement.clientWidth,te=!1,R=[],g={},ut=!1,Ue=!1,Ot=0,re=a.visibilityState==="visible"?p[dt]:p[oe],ft=p[lt]||re;a[w]("visibilitychange",()=>{re=a.visibilityState==="visible"?p[dt]:p[oe],ft=p[lt]||re});var E=p[oe],ne,I=["src","async","defer","type","integrity"],F=Object,W="definePropert";F[W+"y"]=(t,e,r)=>t===p&&["jQuery","onload"].indexOf(e)>=0||(t===a||t===a.body)&&["readyState","write","writeln","on"+y].indexOf(e)>=0?(["on"+y,"on"+m].indexOf(e)&&r.set&&(g["on"+y]=g["on"+y]||[],g["on"+y].push(r.set)),t):t instanceof HTMLScriptElement&&I.indexOf(e)>=0?(t[e+"Getters"]||(t[e+"Getters"]=[],t[e+"Setters"]=[],U(t,e,{set(n){t[e+"Setters"].forEach(o=>o.call(t,n))},get(){return t[e+"Getters"].slice(-1)[0]()}})),r.get&&t[e+"Getters"].push(r.get),r.set&&t[e+"Setters"].push(r.set),t):U(t,e,r);F[W+"ies"]=(t,e)=>{for(let r in e)F[W+"y"](t,r,e[r]);return t};var H,he,S=a[w].bind(a),mt=a[ie].bind(a),O=p[w].bind(p),ae=p[ie].bind(p);typeof EventTarget<"u"&&(H=EventTarget.prototype.addEventListener,he=EventTarget.prototype.removeEventListener,S=H.bind(a),mt=he.bind(a),O=H.bind(p),ae=he.bind(p));var C=a.createElement.bind(a),de=a.__proto__.__lookupGetter__("readyState").bind(a),Ye="loading";U(a,"readyState",{get(){return Ye},set(t){return Ye=t}});var Xe=t=>R.filter(([e,,r],n)=>{if(!(t.indexOf(e.type)<0)){r||(r=e.target);try{let o=r.constructor.name+"::"+e.type;for(let s=0;s<g[o].length;s++)if(g[o][s]){let d=o+"::"+n+"::"+s;if(!ve[d])return!0}}catch{}}}).length,z,ve={},j=t=>{R.forEach(([e,r,n],o)=>{if(!(t.indexOf(e.type)<0)){n||(n=e.target);try{let s=n.constructor.name+"::"+e.type;if((g[s]||[]).length)for(let d=0;d<g[s].length;d++){let i=g[s][d];if(i){let c=s+"::"+o+"::"+d;if(!ve[c]){ve[c]=!0,a.readyState=r,z=s;try{Ot++,!i.prototype||i.prototype.constructor===i?i.bind(n)(e):i(e)}catch(l){x(l,i)}z=null}}}}catch(s){x(s)}}})};S(v,t=>{R.push([t,de(),a])});S(y,t=>{R.push([t,de(),a])});O(v,t=>{R.push([t,de(),p])});var ht=new T;O(m,t=>{R.push([t,de(),p]),A||(j([v,y,b,m]),ht.init())});var gt=t=>{R.push([t,a.readyState,p])},_t=()=>{ae(b,gt),(g[$+"message"]||[]).forEach(t=>{O(b,t)})};O(b,gt);h.on("fi",a.dispatchEvent.bind(a,new CustomEvent("fi")));h.on("fi",()=>{Ue=!0,A=!0,yt(),a.readyState="loading",E(L)});var vt=()=>{ut=!0,Ue&&!A&&(a.readyState="loading",E(L)),ae(m,vt)};O(m,vt);_wpmeteor.rdelay>=0&&new P().init(_wpmeteor.rdelay);var Ee=1,Ze=()=>{--Ee||E(h.emit.bind(h,"l"))};var A=!1,L=()=>{let t=D.shift();if(t)t[f](u+"src")?t[G](u+"async")?(Ee++,ge(t,Ze),E(L)):ge(t,E.bind(null,L)):(t.origtype==Ge&&ge(t),E(L));else if(Xe([v,y,b]))j([v,y,b]),E(L);else if(Ue&&ut)if(Xe([m,b]))j([m,b]),E(L);else if(Ee>1)ft(L);else if(k.length){for(;k.length;)D.push(k.shift());yt(),E(L)}else{if(p.RocketLazyLoadScripts)try{RocketLazyLoadScripts.run()}catch(e){x(e)}a.readyState="complete",_t(),ht.unmock(),A=!1,te=!0,p[oe](Ze)}else A=!1},ye=t=>{let e=C(K),r=t.attributes;for(var n=r.length-1;n>=0;n--)e[q](r[n].name,r[n].value);let o=t[f](u+"type");return o?e.type=o:e.type="text/javascript",(t.textContent||"").match(/^\s*class RocketLazyLoadScripts/)?e.textContent=t.textContent.replace(/^\s*class\s*RocketLazyLoadScripts/,"window.RocketLazyLoadScripts=class").replace("RocketLazyLoadScripts.run();",""):e.textContent=t.textContent,["after","type","src","async","defer"].forEach(s=>e[N](u+s)),e},et=(t,e)=>{let r=t.parentNode;if(r){if((r.nodeType===11?C(r.host.tagName):C(r.tagName)).appendChild(r.replaceChild(e,t)),!r.isConnected){x("Parent for",t," is not part of the DOM");return}return t}x("No parent for",t)},ge=(t,e)=>{let r=t[f](u+"src");if(r){let n=ye(t),o=H?H.bind(n):n[w].bind(n);t.getEventListeners&&t.getEventListeners().forEach(([i,c])=>{o(i,c)}),e&&(o(m,e),o(ce,e)),n.src=r;let s=et(t,n),d=n[f]("type");(!s||t[G]("nomodule")||d&&!at.test(d))&&e&&e()}else t.origtype===Ge?et(t,ye(t)):e&&e()},Be=(t,e)=>{let r=(g[t]||[]).indexOf(e);if(r>=0)return g[t][r]=void 0,!0},tt=(t,e,...r)=>{if("HTMLDocument::"+v==z&&t===v&&!e.toString().match(/jQueryMock/)){h.on("l",a.addEventListener.bind(a,t,e,...r));return}if(e&&(t===v||t===y)){let n=J+t;g[n]=g[n]||[],g[n].push(e),te&&j([t]);return}return S(t,e,...r)},rt=(t,e)=>{if(t===v){let r=J+t;Be(r,e)}return mt(t,e)};De(a,{[w]:{get(){return tt},set(){return tt}},[ie]:{get(){return rt},set(){return rt}}});var nt={},we=t=>{if(t)try{t.match(/^\/\/\w+/)&&(t=a.location.protocol+t);let e=new URL(t),r=e.origin;if(r&&!nt[r]&&a.location.host!==e.host){let n=C("link");n.rel="preconnect",n.href=r,a.head.appendChild(n),nt[r]=!0}}catch{}},Q={},Et=(t,e,r,n)=>{var o=C("link");o.rel=e?"modulepre"+m:"pre"+m,o.as="script",r&&o[q]("crossorigin",r),o.href=t,n.appendChild(o),Q[t]=!0},yt=()=>{if(_wpmeteor.preload&&D.length){let t=a.createDocumentFragment();D.forEach(e=>{let r=e[f](u+"src");r&&!Q[r]&&!e[f](u+"integrity")&&!e[G]("nomodule")&&Et(r,e[f](u+"type")=="module",e[G]("crossorigin")&&e[f]("crossorigin"),t)}),re(a.head.appendChild.bind(a.head,t))}};S(v,()=>{let t=[...D];D.splice(0,D.length),[...a.querySelectorAll("script["+u+"after]"),...t].forEach(e=>{if(se.some(n=>n===e))return;let r=e.__lookupGetter__("type").bind(e);U(e,"origtype",{get(){return r()}}),(e[f](u+"src")||"").match(/\/gtm.js\?/)?k.push(e):e[G](u+"async")?k.unshift(e):D.push(e),se.push(e)})});var Le=function(...t){let e=C(...t);if(t[0].toUpperCase()!==K||!A)return e;let r=e[q].bind(e),n=e[f].bind(e),o=e[G].bind(e);r(u+"after","REORDER"),r(u+"type","text/javascript"),e.type=Ge;let s=[];e.getEventListeners=()=>s,F[W+"ies"](e,{onreadystatechange:{set(i){s.push([m,i])}},onload:{set(i){s.push([m,i])}},onerror:{set(i){s.push([ce,i])}}}),I.forEach(i=>{let c=e.__lookupGetter__(i).bind(e);F[W+"y"](e,i,{set(l){return l?e[q](u+i,l):e[N](u+i)},get(){return e[f](u+i)}}),U(e,"orig"+i,{get(){return c()}})}),e[w]=function(i,c){s.push([i,c])},e[q]=function(i,c){if(I.includes(i))return c?r(u+i,c):e[N](u+i);["onload","onerror","onreadystatechange"].includes(i)?c?(r(u+i,c),r(i,'document.dispatchEvent(new CustomEvent("wpmeteor:load", { detail: { event: event, target: this } }))')):(e[N](i),e[N](u+i,c)):r(i,c)},e[f]=function(i){return I.indexOf(i)>=0?n(u+i):n(i)},e[G]=function(i){return I.indexOf(i)>=0?o(u+i):o(i)};let d=e.attributes;return U(e,"attributes",{get(){return[...d].filter(c=>c.name!=="type"&&c.name!==u+"after").map(c=>({name:c.name.match(new RegExp(u))?c.name.replace(u,""):c.name,value:c.value}))}}),e};Object.defineProperty(a,"createElement",{set(t){t!==Le&&(ne=t)},get(){return ne||Le}});var se=[],Ce=new MutationObserver(t=>{A&&t.forEach(({addedNodes:e,target:r})=>{e.forEach(n=>{if(n.nodeType===1)if(K===n.tagName)if(n[f](u+"after")==="REORDER"&&(!n[f](u+"type")||at.test(n[f](u+"type")))){let o=n[f](u+"src");se.filter(s=>s===n).length&&x("Inserted twice",n),n.parentNode?(se.push(n),(o||"").match(/\/gtm.js\?/)?(k.push(n),we(o)):n[G](u+"async")?(k.unshift(n),we(o)):(o&&!n[f](u+"integrity")&&!n[G]("nomodule")&&!Q[o]&&(St(_e(),"pre preload",D.length),Et(o,n[f](u+"type")=="module",n[G]("crossorigin")&&n[f]("crossorigin"),a.head)),D.push(n))):(n.addEventListener(m,s=>s.target.parentNode.removeChild(s.target)),n.addEventListener(ce,s=>s.target.parentNode.removeChild(s.target)),r.appendChild(n))}else h.emit("s",n.src);else n.tagName==="LINK"&&n[f]("as")==="script"&&(Q[n[f]("href")]=!0)})})}),wt={childList:!0,subtree:!0,attributes:!0,attributeOldValue:!0};Ce.observe(a.documentElement,wt);var kt=HTMLElement.prototype.attachShadow;HTMLElement.prototype.attachShadow=function(t){let e=kt.call(this,t);return t.mode==="open"&&Ce.observe(e,wt),e};h.on("l",()=>{(!ne||ne===Le)&&(a.createElement=C,Ce.disconnect()),a.dispatchEvent(new CustomEvent("l"))});var be=t=>{let e,r;!a.currentScript||!a.currentScript.parentNode?(e=a.body,r=e.lastChild):(r=a.currentScript,e=r.parentNode);try{let n=C("div");n.innerHTML=t,Array.from(n.childNodes).forEach(o=>{o.nodeName===K?e.insertBefore(ye(o),r):e.insertBefore(o,r)})}catch(n){x(n)}},st=t=>be(t+`
+`);De(a,{write:{get(){return be},set(t){return be=t}},writeln:{get(){return st},set(t){return st=t}}});var ot=(t,e,...r)=>{if("Window::"+v==z&&t===v&&!e.toString().match(/jQueryMock/)){h.on("l",p.addEventListener.bind(p,t,e,...r));return}if("Window::"+m==z&&t===m){h.on("l",p.addEventListener.bind(p,t,e,...r));return}if(e&&(t===m||t===v||t===b&&!te)){let n=t===v?J+t:$+t;g[n]=g[n]||[],g[n].push(e),te&&j([t]);return}return O(t,e,...r)},it=(t,e)=>{if(t===m){let r=t===v?J+t:$+t;Be(r,e)}return ae(t,e)};De(p,{[w]:{get(){return ot},set(){return ot}},[ie]:{get(){return it},set(){return it}}});var Se=t=>{let e;return{get(){return e},set(r){return e&&Be(t,r),g[t]=g[t]||[],g[t].push(r),e=r}}};S("wpmeteor:load",t=>{let{target:e,event:r}=t.detail,n=e===p?a.body:e,o=n[f](u+"on"+r.type);n[N](u+"on"+r.type);try{let s=new Function("event",o);e===p?p[w](m,p[w].bind(p,m,s)):s.call(e,r)}catch(s){console.err(s)}});{let t=Se($+m);U(p,"onload",t),S(v,()=>{U(a.body,"onload",t)})}U(a,"onreadystatechange",Se(J+y));U(p,"onmessage",Se($+b));if(!1)try{}catch(t){}var xt=t=>{let r={"4g":1250,"3g":2500,"2g":2500}[(navigator.connection||{}).effectiveType]||0,n=t.getBoundingClientRect(),o={top:-1*Je-r,left:-1*Ve-r,bottom:Je+r,right:Ve+r};return!(n.left>=o.right||n.right<=o.left||n.top>=o.bottom||n.bottom<=o.top)},ct=(t=!0)=>{let e=1,r=-1,n={},o=()=>{r++,--e||E(h.emit.bind(h,"i"),_wpmeteor.rdelay)};Array.from(a.getElementsByTagName("*")).forEach(s=>{let d,i,c;if(s.tagName==="IMG"){let l=s.currentSrc||s.src;l&&!n[l]&&!l.match(/^data:/i)&&((s.loading||"").toLowerCase()!=="lazy"||xt(s))&&(d=l)}else if(s.tagName===K)we(s[f](u+"src"));else if(s.tagName==="LINK"&&s[f]("as")==="script"&&["pre"+m,"modulepre"+m].indexOf(s[f]("rel"))>=0)Q[s[f]("href")]=!0;else if((i=p.getComputedStyle(s))&&(c=(i.backgroundImage||"").match(/^url\s*\((.*?)\)/i))&&(c||[]).length){let l=c[0].slice(4,-1).replace(/"/g,"");!n[l]&&!l.match(/^data:/i)&&(d=l)}if(d){n[d]=!0;let l=new Image;t&&(e++,l[w](m,o),l[w](ce,o)),l.src=d}}),a.fonts.ready.then(()=>{o()})};_wpmeteor.rdelay===0?S(v,()=>E(ct.bind(null,!1))):O(m,ct);})();
+//0.1.16
+
+</script><script  data-wpmeteor-after="REORDER" type="javascript/blocked" data-wpmeteor-type="text/javascript" >window.dataLayer = window.dataLayer || [];</script>
+
+    <!-- retirado metas manuais pois YOAST Faz sozinho e melhor  -->
+
+    <!-- Facebook Meta Tags -->
+    <meta property="og:title" content="“Light precisará de muito capex para se viabilizar,” diz CEO" />
+
+    <!-- Twitter Meta Tags -->
+    <meta name="twitter:title" content="“Light precisará de muito capex para se viabilizar,” diz CEO">
+
+     <!-- Colocando as metas title manuais de volta para incluir o "badge" -->
+
+
+    
+
+    <!-- Exoclick META VERIFY -->
+    <meta name="exoclick-site-verification" content="81b2ec9f3571e739db11db0fb6a51138">
+    
+<!-- Otimização de mecanismos de pesquisa por Rank Math PRO - https://rankmath.com/ -->
+<meta name="description" content="Depois de trocar o management e assessores, e negociar por quase um ano, a Light e seus credores ainda não chegaram a um acordo."/>
+<meta name="robots" content="follow, index"/>
+<link rel="canonical" href="https://braziljournal.com/light-precisara-de-muito-capex-para-se-viabilizar-diz-ceo/" />
+<meta property="og:locale" content="pt_BR" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="“Light precisará de muito capex para se viabilizar,” diz CEO" />
+<meta property="og:description" content="Depois de trocar o management e assessores, e negociar por quase um ano, a Light e seus credores ainda não chegaram a um acordo." />
+<meta property="og:url" content="https://braziljournal.com/light-precisara-de-muito-capex-para-se-viabilizar-diz-ceo/" />
+<meta property="og:site_name" content="Brazil Journal" />
+<meta property="article:publisher" content="https://www.facebook.com/braziljournalnews" />
+<meta property="article:tag" content="Setor elétrico" />
+<meta property="article:tag" content="Crédito" />
+<meta property="article:tag" content="Light" />
+<meta property="article:section" content="Negócios" />
+<meta property="og:image" content="https://braziljournal.com/wp-content/uploads/2023/07/light-635x357.jpg" />
+<meta property="og:image:secure_url" content="https://braziljournal.com/wp-content/uploads/2023/07/light-635x357.jpg" />
+<meta property="og:image:width" content="635" />
+<meta property="og:image:height" content="357" />
+<meta property="og:image:alt" content="Light" />
+<meta property="og:image:type" content="image/jpeg" />
+<meta property="article:published_time" content="2024-02-26T06:50:36-03:00" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="“Light precisará de muito capex para se viabilizar,” diz CEO" />
+<meta name="twitter:description" content="Depois de trocar o management e assessores, e negociar por quase um ano, a Light e seus credores ainda não chegaram a um acordo." />
+<meta name="twitter:site" content="@BrazilJournal" />
+<meta name="twitter:creator" content="@BrazilJournal" />
+<meta name="twitter:image" content="https://braziljournal.com/wp-content/uploads/2023/07/light-635x357.jpg" />
+<meta name="twitter:label1" content="Escrito por" />
+<meta name="twitter:data1" content="Geraldo Samor" />
+<meta name="twitter:label2" content="Tempo de leitura" />
+<meta name="twitter:data2" content="6 minutos" />
+<script type="application/ld+json" class="rank-math-schema-pro">{"@context":"https://schema.org","@graph":[{"@type":"Person","@id":"https://braziljournal.com/#organization","name":"Geraldo Samor","url":"https://braziljournal.com","sameAs":["https://www.facebook.com/braziljournalnews","https://twitter.com/BrazilJournal","https://www.instagram.com/braziljournal/","https://www.linkedin.com/company/brazil-journal/","https://www.youtube.com/channel/UCitcBG_14yPhOxpA7xkteug"],"logo":{"@type":"ImageObject","@id":"https://secure.gravatar.com/avatar/bca9f04f1f79e241d4b62c2c8f84400e?s=96&amp;d=mm&amp;r=g","@url":"https://secure.gravatar.com/avatar/bca9f04f1f79e241d4b62c2c8f84400e?s=96&amp;d=mm&amp;r=g","@caption":"Geraldo Samor","@inLanguage":"pt-BR"},"image":{"@type":"ImageObject","@id":"https://secure.gravatar.com/avatar/bca9f04f1f79e241d4b62c2c8f84400e?s=96&amp;d=mm&amp;r=g","@url":"https://secure.gravatar.com/avatar/bca9f04f1f79e241d4b62c2c8f84400e?s=96&amp;d=mm&amp;r=g","@caption":"Geraldo Samor","@inLanguage":"pt-BR"}},{"@type":"WebSite","@id":"https://braziljournal.com/#website","url":"https://braziljournal.com","name":"Brazil Journal","alternateName":"BrazilJournal","publisher":{"@id":"https://braziljournal.com/#organization"},"inLanguage":"pt-BR"},{"@type":"ImageObject","@id":"https://braziljournal.com/wp-content/uploads/2023/07/light.jpg","url":"https://braziljournal.com/wp-content/uploads/2023/07/light.jpg","width":"800","height":"450","caption":"Light","inLanguage":"pt-BR"},{"@type":"WebPage","@id":"https://braziljournal.com/light-precisara-de-muito-capex-para-se-viabilizar-diz-ceo/#webpage","url":"https://braziljournal.com/light-precisara-de-muito-capex-para-se-viabilizar-diz-ceo/","name":"\u201cLight precisar\u00e1 de muito capex para se viabilizar,\u201d diz CEO","datePublished":"2024-02-26T06:50:36-03:00","dateModified":"2024-02-26T06:50:36-03:00","isPartOf":{"@id":"https://braziljournal.com/#website"},"primaryImageOfPage":{"@id":"https://braziljournal.com/wp-content/uploads/2023/07/light.jpg"},"inLanguage":"pt-BR"},{"@type":"Person","@id":"https://braziljournal.com/author/geraldo-samor/","@name":"Geraldo Samor","@url":"https://braziljournal.com/author/geraldo-samor/","@image":{"@type":"ImageObject","@id":"https://secure.gravatar.com/avatar/bca9f04f1f79e241d4b62c2c8f84400e?s=96&amp;d=mm&amp;r=g","@url":"https://secure.gravatar.com/avatar/bca9f04f1f79e241d4b62c2c8f84400e?s=96&amp;d=mm&amp;r=g","@caption":"Geraldo Samor","@inLanguage":"pt-BR"}},{"@type":"NewsArticle","headline":"\u201cLight precisar\u00e1 de muito capex para se viabilizar,\u201d diz CEO","keywords":"Light","datePublished":"2024-02-26T06:50:36-03:00","dateModified":"2024-02-26T06:50:36-03:00","author":{"@id":"https://braziljournal.com/author/geraldo-samor/","name":"Geraldo Samor"},"publisher":{"@id":"https://braziljournal.com/#organization"},"description":"Depois de trocar o management e assessores, e negociar por quase um ano, a Light e seus credores ainda n\u00e3o chegaram a um acordo.","name":"\u201cLight precisar\u00e1 de muito capex para se viabilizar,\u201d diz CEO","@id":"https://braziljournal.com/light-precisara-de-muito-capex-para-se-viabilizar-diz-ceo/#richSnippet","isPartOf":{"@id":"https://braziljournal.com/light-precisara-de-muito-capex-para-se-viabilizar-diz-ceo/#webpage"},"image":{"@id":"https://braziljournal.com/wp-content/uploads/2023/07/light.jpg"},"inLanguage":"pt-BR","mainEntityOfPage":{"@id":"https://braziljournal.com/light-precisara-de-muito-capex-para-se-viabilizar-diz-ceo/#webpage"}}]}</script>
+<!-- /Plugin de SEO do Rank Math para WordPress -->
+
+<link rel='dns-prefetch' href='//braziljournal.com' />
+<link rel='dns-prefetch' href='//www.googletagmanager.com' />
+<link rel='dns-prefetch' href='//cdnjs.cloudflare.com' />
+<link rel='dns-prefetch' href='//pagead2.googlesyndication.com' />
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='contact-form-7-css' href='https://braziljournal.com/wp-content/plugins/contact-form-7/includes/css/styles.css?x67746&amp;ver=5.8.4' type='text/css' media='all' />
+<style id='contact-form-7-inline-css' type='text/css'>
+.wpcf7 .wpcf7-recaptcha iframe {margin-bottom: 0;}.wpcf7 .wpcf7-recaptcha[data-align="center"] > div {margin: 0 auto;}.wpcf7 .wpcf7-recaptcha[data-align="right"] > div {margin: 0 0 0 auto;}
+</style>
+<link rel='stylesheet' id='url-shortify-css' href='https://braziljournal.com/wp-content/plugins/url-shortify/lite/dist/styles/url-shortify.css?x67746&amp;ver=1.9.0' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-css-css' href='https://braziljournal.com/wp-content/themes/project_theme/assets/css/librarys-css/bootstrap.min.css?x67746' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-css-icon-css' href='https://braziljournal.com/wp-content/themes/project_theme/assets/css/librarys-css/bootstrap-icons.css?x67746' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css-css' href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css' type='text/css' media='all' />
+<link rel='stylesheet' id='style-css' href='https://braziljournal.com/wp-content/themes/project_theme/assets/css/style.css?x67746' type='text/css' media='all' />
+<link rel='stylesheet' id='main-single-css-css' href='https://braziljournal.com/wp-content/themes/project_theme/assets/css/main-single.css?x67746' type='text/css' media='all' />
+<link rel='stylesheet' id='owl-carousel-css-css' href='https://braziljournal.com/wp-content/themes/project_theme/assets/css/librarys-css/owl.carousel.min.css?x67746' type='text/css' media='all' />
+<link rel='stylesheet' id='owl-theme-css-css' href='https://braziljournal.com/wp-content/themes/project_theme/assets/css/librarys-css/owl.theme.default.min.css?x67746' type='text/css' media='all' />
+<link rel='stylesheet' id='slick-css-css' href='https://braziljournal.com/wp-content/themes/project_theme/assets/css/librarys-css/slick.min.css?x67746' type='text/css' media='all' />
+<link rel='stylesheet' id='slicktheme-css-css' href='https://braziljournal.com/wp-content/themes/project_theme/assets/css/librarys-css/slick-theme.css?x67746' type='text/css' media='all' />
+<script  data-wpmeteor-after="REORDER" type="javascript/blocked" data-wpmeteor-type="text/javascript"  data-wpmeteor-src="https://braziljournal.com/wp-includes/js/jquery/jquery.min.js?x67746&amp;ver=3.7.1" id="jquery-core-js"></script>
+<script  data-wpmeteor-after="REORDER" type="javascript/blocked" data-wpmeteor-type="text/javascript"  id="url-shortify-js-extra">
+/* <![CDATA[ */
+var usParams = {"ajaxurl":"https:\/\/braziljournal.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script  data-wpmeteor-after="REORDER" type="javascript/blocked" data-wpmeteor-type="text/javascript"  data-wpmeteor-src="https://braziljournal.com/wp-content/plugins/url-shortify/lite/dist/scripts/url-shortify.js?x67746&amp;ver=1.9.0" id="url-shortify-js"></script>
+<script  data-wpmeteor-after="REORDER" type="javascript/blocked" data-wpmeteor-type="text/javascript"  data-wpmeteor-src="https://braziljournal.com/wp-content/themes/project_theme/assets/js/librarys-js/jquery.min.js?x67746&amp;ver=1" id="esc-jquery-js"></script>
+<script  data-wpmeteor-after="REORDER" data-wpmeteor-defer type="javascript/blocked" data-wpmeteor-type="text/javascript"  data-wpmeteor-src="https://braziljournal.com/wp-content/themes/project_theme/assets/js/thumb-play.js?x67746&amp;ver=1" id="thumb-play-defer-js"></script>
+
+<!-- Snippet do Google Analytics adicionado pelo Site Kit -->
+<script  data-wpmeteor-after="REORDER" type="javascript/blocked" data-wpmeteor-type="text/javascript"  data-wpmeteor-src="https://www.googletagmanager.com/gtag/js?id=UA-78824708-1" id="google_gtagjs-js" data-wpmeteor-async></script>
+<script  data-wpmeteor-after="REORDER" type="javascript/blocked" data-wpmeteor-type="text/javascript"  id="google_gtagjs-js-after">
+/* <![CDATA[ */
+window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}
+gtag('set', 'linker', {"domains":["braziljournal.com"]} );
+gtag("js", new Date());
+gtag("set", "developer_id.dZTNiMT", true);
+gtag("config", "UA-78824708-1", {"anonymize_ip":true});
+gtag("config", "G-X6D8G4LYEZ");
+/* ]]> */
+</script>
+
+<!-- Finalizar o snippet do Google Analytics adicionado pelo Site Kit -->
+<link rel="https://api.w.org/" href="https://braziljournal.com/wp-json/" /><link rel="alternate" type="application/json" href="https://braziljournal.com/wp-json/wp/v2/posts/68993" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://braziljournal.com/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.4.1" />
+<link rel='shortlink' href='https://braziljournal.com/36oy' />
+<meta name="generator" content="Site Kit by Google 1.114.0" />
+<!-- Snippet do Google Adsense adicionado pelo Site Kit -->
+<meta name="google-adsense-platform-account" content="ca-host-pub-2644536267352236">
+<meta name="google-adsense-platform-domain" content="sitekit.withgoogle.com">
+<!-- Finalizar o snippet do Google Adsense adicionado pelo Site Kit -->
+
+<!-- Snippet do Google Adsense adicionado pelo Site Kit -->
+<script  data-wpmeteor-after="REORDER" type="javascript/blocked" data-wpmeteor-type="text/javascript"  data-wpmeteor-async="async" data-wpmeteor-src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9170171931128528&amp;host=ca-host-pub-2644536267352236" crossorigin="anonymous"></script>
+
+<!-- Finalizar o snippet do Google Adsense adicionado pelo Site Kit -->
+
+<!-- Snippet do Gerenciador de Tags do Google adicionado pelo Site Kit -->
+<script  data-wpmeteor-after="REORDER" type="javascript/blocked" data-wpmeteor-type="text/javascript" >
+/* <![CDATA[ */
+
+			( function( w, d, s, l, i ) {
+				w[l] = w[l] || [];
+				w[l].push( {'gtm.start': new Date().getTime(), event: 'gtm.js'} );
+				var f = d.getElementsByTagName( s )[0],
+					j = d.createElement( s ), dl = l != 'dataLayer' ? '&l=' + l : '';
+				j.async = true;
+				j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+				f.parentNode.insertBefore( j, f );
+			} )( window, document, 'script', 'dataLayer', 'GTM-NXQ8W79' );
+			
+/* ]]> */
+</script>
+
+<!-- Finalizar o snippet do Gerenciador de Tags do Google adicionado pelo Site Kit -->
+<link rel="icon" href="https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512-150x150.png?x67746" sizes="32x32" />
+<link rel="icon" href="https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512-300x300.png?x67746" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512-300x300.png?x67746" />
+<meta name="msapplication-TileImage" content="https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512-300x300.png" />
+<style>.shorten_url { 
+	   padding: 10px 10px 10px 10px ; 
+	   border: 1px solid #AAAAAA ; 
+	   background-color: #EEEEEE ;
+}</style>
+        <!-- customData Start -->
+    <script data-wpmeteor-nooptimize="true">
+
+
+        // Canais standard genéricos
+        var customData = {
+            'post_id':68993,'tipo':'post','programa':'','categoria':["Neg\u00f3cios"],'tags':["Setor el\u00e9trico","Cr\u00e9dito","Light"]        };
+
+        customData['url'] = window.location.origin + window.location.pathname;
+        customData['title'] = document.title;
+    </script>
+    <!-- customdata End -->
+
+    <!-- ADS Start -->
+    <script async="async" data-wpmeteor-nooptimize="true" src="https://www.googletagservices.com/tag/js/gpt.js"></script>
+    <script async="async" data-wpmeteor-nooptimize="true" src="/wp-content/themes/project_theme/assets/js/ads.js?x67746"></script>
+    <!-- ADS End -->
+
+    <!-- retirado metas manuais pois YOAST Faz sozinho e melhor  -->
+
+  </head>
+
+<body id="body">
+  <div class="main">
+    <!-- div main -->
+
+    <!-- headerbrj-->
+    <header class="headerbrj header-int">
+  <div class="logo-print print-flex">
+    <img src="https://braziljournal.com/wp-content/themes/project_theme//assets/img/bj-logo-print.png?x67746">
+  </div>
+  <div class="wrap-bj">
+    <!-- header row-->
+    <div class="headerbrj-row">
+      <div class="header-logo">
+        <h1 class="logobrj no-translate"><a href="https://braziljournal.com">Brazil&nbsp;<span>Journal</span></a>
+        </h1>
+      </div>
+
+      <nav class="header-controls">
+        <div style="display: flex;">
+          <div class="menu-header-menu-container"><ul id="headerbrj-menu" class="headerbrj-menu"><li id="menu-item-48714" class="play menu-item menu-item-type-post_type menu-item-object-page menu-item-48714"><a href="https://braziljournal.com/play/">Vídeos</a></li>
+<li id="menu-item-30709" class="daytrade menu-item menu-item-type-post_type menu-item-object-page menu-item-30709"><a href="https://braziljournal.com/daytrade/">Daytrade</a></li>
+<li id="menu-item-14641" class="negocios menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-14641"><a href="https://braziljournal.com/negocios/">Negócios</a></li>
+<li id="menu-item-14642" class="economia menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14642"><a href="https://braziljournal.com/economia/">Economia</a></li>
+<li id="menu-item-14643" class="tecnologia menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14643"><a href="https://braziljournal.com/tecnologia/">Tecnologia</a></li>
+<li id="menu-item-14645" class="esg menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14645"><a href="https://braziljournal.com/esg/">ESG</a></li>
+<li id="menu-item-14644" class="weekend menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14644"><a href="https://braziljournal.com/weekend/">Weekend</a></li>
+<li id="menu-item-71151" class="podcasts menu-item menu-item-type-taxonomy menu-item-object-category menu-item-71151"><a href="https://braziljournal.com/podcasts/">Podcasts</a></li>
+</ul></div>        </div>
+        <div class="headerbrj-btns">
+          <button class="btn-search" data-toggle="modal" data-target="#modalSearch" title="Search Button">
+            <svg width="25" height="26" viewBox="0 0 25 26" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <path fill-rule="evenodd" clip-rule="evenodd"
+                d="M11 22C17.0751 22 22 17.0751 22 11C22 4.92487 17.0751 -3.73189e-07 11 -2.40413e-07C4.92487 -1.07636e-07 1.07636e-07 4.92487 2.40413e-07 11C3.73189e-07 17.0751 4.92487 22 11 22ZM11 19C15.4183 19 19 15.4183 19 11C19 6.58172 15.4183 3 11 3C6.58172 3 3 6.58172 3 11C3 15.4183 6.58172 19 11 19Z"
+                fill="white" />
+              <rect x="17.1626" y="19.9912" width="3" height="8" transform="rotate(-45.8873 17.1626 19.9912)"
+                fill="white" />
+            </svg>
+          </button>
+          <button class="btn-brj-menu" id="btnMenuDesktop" title="Menu Button">
+            <svg width="24" height="16" viewBox="0 0 24 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <rect width="24" height="2" fill="white" />
+              <rect y="7" width="24" height="2" fill="white" />
+              <rect y="14" width="24" height="2" fill="white" />
+            </svg>
+
+            <!-- <span>Menu</span> -->
+          </button>
+        </div>
+      </nav>
+    </div>
+    <!-- !header row-->
+  </div>
+
+  <!-- menubrj-->
+  <nav class="menubrj">
+    <div class="wrap-bj">
+      <!-- header-row-->
+      <!-- <div class="headerbrj-row">
+        <div class="header-logo">
+          <h1 class="logobrj"><a href="/">Brazil&nbsp;<span>Journal</span></a>
+          </h1>
+        </div>
+
+        <nav class="header-controls">
+          <div style="display: flex;">
+                      </div>
+
+          <div class="headerbrj-btns">
+            <button class="btn-search" data-toggle="modal" data-target="#modalSearch">
+              <svg width="25" height="26" viewBox="0 0 25 26" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path fill-rule="evenodd" clip-rule="evenodd"
+                  d="M11 22C17.0751 22 22 17.0751 22 11C22 4.92487 17.0751 -3.73189e-07 11 -2.40413e-07C4.92487 -1.07636e-07 1.07636e-07 4.92487 2.40413e-07 11C3.73189e-07 17.0751 4.92487 22 11 22ZM11 19C15.4183 19 19 15.4183 19 11C19 6.58172 15.4183 3 11 3C6.58172 3 3 6.58172 3 11C3 15.4183 6.58172 19 11 19Z"
+                  fill="white" />
+                <rect x="17.1626" y="19.9912" width="3" height="8" transform="rotate(-45.8873 17.1626 19.9912)"
+                  fill="white" />
+              </svg>
+            </button>
+            <button class="btn-brj-menu" id="btnMenuDesktop">
+              <svg width="24" height="16" viewBox="0 0 24 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <rect width="24" height="2" fill="white" />
+                <rect y="7" width="24" height="2" fill="white" />
+                <rect y="14" width="24" height="2" fill="white" />
+              </svg>
+
+              <span>Menu</span>
+            </button>
+          </div>
+        </nav>
+      </div> -->
+      <!-- !header-row-->
+      <!-- menubrj-row-->
+      <div class="row menubrj-row">
+        <!-- noticias-->
+        <div class="col-12 col-md-4 col-lg-2 col-xl-2">
+          <nav class="menubrj-list">
+            <div id="headerbrj-menu" class="headerbrj-menu">
+              <ul>
+                <li class="play page_item">
+                  <a href="https://braziljournal.com/play">Vídeos</a>
+                </li>
+              </ul>
+            </div>
+            <header>
+              <a class="menubrj-list-title" href="https://braziljournal.com/daytrade">Daytrade</a>
+            </header>
+            <header>
+              <p class="menubrj-list-title">Notícias</p>
+            </header>
+            <div class="menu-header-menu-2-container"><ul id="headerbrj-menu" class="headerbrj-menu"><li id="menu-item-14669" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-14669"><a href="https://braziljournal.com/negocios/">Negócios</a></li>
+<li id="menu-item-14670" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14670"><a href="https://braziljournal.com/economia/">Economia</a></li>
+<li id="menu-item-14671" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14671"><a href="https://braziljournal.com/tecnologia/">Tecnologia</a></li>
+<li id="menu-item-73696" class="menubrj-list-title menu-item menu-item-type-taxonomy menu-item-object-category menu-item-73696"><a href="https://braziljournal.com/esg/">ESG</a></li>
+<li id="menu-item-73697" class="menubrj-list-title menu-item menu-item-type-taxonomy menu-item-object-category menu-item-73697"><a href="https://braziljournal.com/weekend/">Weekend</a></li>
+<li id="menu-item-73698" class="menubrj-list-title menu-item menu-item-type-taxonomy menu-item-object-category menu-item-73698"><a href="https://braziljournal.com/podcasts/">Podcasts</a></li>
+<li id="menu-item-73704" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-73704"><a href="https://braziljournal.com/elon-musk-vai-a-cannes-pela-primeira-vez-josette-goulart-tambem/">Hotel Martinez</a></li>
+<li id="menu-item-73703" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-73703"><a href="https://braziljournal.com/tag/the-business-of-life/">The Business Of Life</a></li>
+<li id="menu-item-73702" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-73702"><a href="https://braziljournal.com/tag/lado-b/">Lado B</a></li>
+<li id="menu-item-74187" class="menubrj-list-title menu-item menu-item-type-custom menu-item-object-custom menu-item-74187"><a href="https://braziljournal.com/originals/a-moeda-que-vingou/">A Moeda que Vingou</a></li>
+</ul></div>          </nav>
+        </div>
+        <!-- !noticias-->
+        <!-- seriesespeciais-->
+        <div class="col-12 col-md-4 col-lg-2 col-xl-2">
+          <nav class="menubrj-list">
+            <div class="row">
+              <div class="col-12">
+                <header>
+                  <p class="menubrj-list-title">Séries Especiais</p>
+                </header>
+                <div class="menu-series-especiais-container"><ul id="headerbrj-menu" class="headerbrj-menu"><li id="menu-item-73706" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-73706"><a href="https://braziljournal.com/tag/agro-journal/">Agro Journal</a></li>
+<li id="menu-item-63232" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-63232"><a href="https://braziljournal.com/tag/joias-do-rio/">Joias do Rio</a></li>
+<li id="menu-item-65462" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-65462"><a href="https://braziljournal.com/tag/future-of-work/">Future of Work</a></li>
+<li id="menu-item-57899" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-57899"><a href="https://braziljournal.com/hot-topic/health-journal/">Health Journal</a></li>
+<li id="menu-item-57897" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-57897"><a href="https://braziljournal.com/hot-topic/global-watch/">Global Watch</a></li>
+<li id="menu-item-73649" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-73649"><a href="https://braziljournal.com/hot-topic/cmo-journal/">CMO Journal</a></li>
+<li id="menu-item-57934" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-57934"><a href="https://braziljournal.com/hot-topic/wealth-journal/">Wealth Journal</a></li>
+<li id="menu-item-70527" class="menu-item menu-item-type-taxonomy menu-item-object-hot-topic menu-item-70527"><a href="https://braziljournal.com/hot-topic/long-short/">Long &amp; Short</a></li>
+<li id="menu-item-70528" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-70528"><a href="https://braziljournal.com/tag/global-stocks/">Global Stocks</a></li>
+<li id="menu-item-74293" class="menubrj-list-title menu-item menu-item-type-custom menu-item-object-custom menu-item-74293"><a href="https://braziljournal.com/on-business/">Branded Channels</a></li>
+<li id="menu-item-74294" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-74294"><a href="https://braziljournal.com/on-business/">On Business</a></li>
+</ul></div>              </div>
+            </div>
+          </nav>
+        </div>
+        <!-- !seriesespeciais-->
+        <!-- hottopics-->
+        <div class="col-12 col-md-4 col-lg-5 col-xl-5">
+          <nav class="menubrj-list">
+            <header>
+              <p class="menubrj-list-title">Hot Topics</p>
+            </header>
+            <div class="row">
+              <div class="col-12 col-lg-6">
+
+                <div class="menu-hot-topics-container"><ul id="headerbrj-menu" class="headerbrj-menu"><li id="menu-item-57902" class="menu-item menu-item-type-taxonomy menu-item-object-hot-topic menu-item-57902"><a href="https://braziljournal.com/hot-topic/bancos-fintechs/">Bancos &amp; Fintechs</a></li>
+<li id="menu-item-57912" class="menu-item menu-item-type-taxonomy menu-item-object-hot-topic menu-item-57912"><a href="https://braziljournal.com/hot-topic/real-estate/">Real Estate</a></li>
+<li id="menu-item-57903" class="menu-item menu-item-type-taxonomy menu-item-object-hot-topic menu-item-57903"><a href="https://braziljournal.com/hot-topic/ipos-follow-ons/">IPOs &amp; Follow-ons</a></li>
+<li id="menu-item-57904" class="menu-item menu-item-type-taxonomy menu-item-object-hot-topic menu-item-57904"><a href="https://braziljournal.com/hot-topic/varejo-consumo/">Varejo &amp; Consumo</a></li>
+<li id="menu-item-57905" class="menu-item menu-item-type-taxonomy menu-item-object-hot-topic menu-item-57905"><a href="https://braziljournal.com/hot-topic/startups/">Startups</a></li>
+<li id="menu-item-57906" class="menu-item menu-item-type-taxonomy menu-item-object-hot-topic menu-item-57906"><a href="https://braziljournal.com/hot-topic/empresas-de-saude/">Empresas de Saúde</a></li>
+<li id="menu-item-57907" class="menu-item menu-item-type-taxonomy menu-item-object-hot-topic menu-item-57907"><a href="https://braziljournal.com/hot-topic/educacao/">Educação</a></li>
+<li id="menu-item-57909" class="menu-item menu-item-type-taxonomy menu-item-object-hot-topic menu-item-57909"><a href="https://braziljournal.com/hot-topic/governanca-corporativa/">Governança Corporativa</a></li>
+<li id="menu-item-57910" class="menu-item menu-item-type-taxonomy menu-item-object-hot-topic menu-item-57910"><a href="https://braziljournal.com/hot-topic/gestores/">Gestores</a></li>
+<li id="menu-item-63858" class="menu-item menu-item-type-taxonomy menu-item-object-hot-topic menu-item-63858"><a href="https://braziljournal.com/hot-topic/farmaceuticas/">Farmacêuticas</a></li>
+<li id="menu-item-57913" class="menu-item menu-item-type-taxonomy menu-item-object-hot-topic menu-item-57913"><a href="https://braziljournal.com/hot-topic/private-equity-vc/">Private Equity &amp; VC</a></li>
+<li id="menu-item-57929" class="menu-item menu-item-type-taxonomy menu-item-object-hot-topic menu-item-57929"><a href="https://braziljournal.com/hot-topic/inteligencia-artificial/">Inteligência Artificial</a></li>
+<li id="menu-item-70443" class="menu-item menu-item-type-taxonomy menu-item-object-hot-topic menu-item-70443"><a href="https://braziljournal.com/hot-topic/gastronomia/">Gastronomia</a></li>
+</ul></div>              </div>
+              <div class="col-12 col-lg-6">
+                <div class="menu-hot-topic2-container"><ul id="headerbrj-menu" class="headerbrj-menu"><li id="menu-item-57915" class="menu-item menu-item-type-taxonomy menu-item-object-hot-topic menu-item-57915"><a href="https://braziljournal.com/hot-topic/brasil/">Brasil</a></li>
+<li id="menu-item-57916" class="menu-item menu-item-type-taxonomy menu-item-object-hot-topic menu-item-57916"><a href="https://braziljournal.com/hot-topic/memoria/">Memória</a></li>
+<li id="menu-item-57917" class="menu-item menu-item-type-taxonomy menu-item-object-hot-topic menu-item-57917"><a href="https://braziljournal.com/hot-topic/credito/">Crédito</a></li>
+<li id="menu-item-57918" class="menu-item menu-item-type-taxonomy menu-item-object-hot-topic menu-item-57918"><a href="https://braziljournal.com/hot-topic/carro-eletrico/">Carro elétrico</a></li>
+<li id="menu-item-57919" class="menu-item menu-item-type-taxonomy menu-item-object-hot-topic menu-item-57919"><a href="https://braziljournal.com/hot-topic/livros/">Livros</a></li>
+<li id="menu-item-57924" class="menu-item menu-item-type-taxonomy menu-item-object-hot-topic menu-item-57924"><a href="https://braziljournal.com/hot-topic/filantropia/">Filantropia</a></li>
+<li id="menu-item-57920" class="menu-item menu-item-type-taxonomy menu-item-object-hot-topic menu-item-57920"><a href="https://braziljournal.com/hot-topic/criptomoedas/">Criptomoedas</a></li>
+<li id="menu-item-57921" class="menu-item menu-item-type-taxonomy menu-item-object-hot-topic menu-item-57921"><a href="https://braziljournal.com/hot-topic/research/">Research</a></li>
+<li id="menu-item-57922" class="menu-item menu-item-type-taxonomy menu-item-object-hot-topic menu-item-57922"><a href="https://braziljournal.com/hot-topic/cfo-journal/">CFO Journal</a></li>
+<li id="menu-item-73647" class="menu-item menu-item-type-taxonomy menu-item-object-hot-topic menu-item-73647"><a href="https://braziljournal.com/hot-topic/marketing/">Marketing</a></li>
+<li id="menu-item-57925" class="menu-item menu-item-type-taxonomy menu-item-object-hot-topic menu-item-57925"><a href="https://braziljournal.com/hot-topic/commodities/">Commodities</a></li>
+<li id="menu-item-57926" class="menu-item menu-item-type-taxonomy menu-item-object-hot-topic menu-item-57926"><a href="https://braziljournal.com/hot-topic/opiniao/">Opinião</a></li>
+<li id="menu-item-70441" class="menu-item menu-item-type-taxonomy menu-item-object-hot-topic menu-item-70441"><a href="https://braziljournal.com/hot-topic/arte/">Arte</a></li>
+</ul></div>              </div>
+            </div>
+          </nav>
+        </div>
+        <!-- !hottopics-->
+        <!-- brazil journal & follow us-->
+        <div class="col-12 col-md-4 col-lg-3 col-xl-3">
+          <nav class="menubrj-list">
+            <header>
+              <p class="menubrj-list-title no-translate">Brazil Journal</p>
+            </header>
+            <div class="menu-menu-paginas-internas-container"><ul id="menu-menu-paginas-internas" class="menu"><li id="menu-item-368" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-368"><a href="https://braziljournal.com/quem-faz/">Quem faz</a></li>
+<li id="menu-item-369" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-369"><a href="https://braziljournal.com/brands/">Brands</a></li>
+<li id="menu-item-365" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-365"><a href="https://braziljournal.com/termos-de-uso/">Termos de uso</a></li>
+<li id="menu-item-49397" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy menu-item-49397"><a rel="privacy-policy" href="https://braziljournal.com/politica-de-privacidade/">Política de Privacidade</a></li>
+<li id="menu-item-366" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-366"><a href="https://braziljournal.com/anuncie/">Anuncie</a></li>
+</ul></div>          </nav>
+          <nav class="menubrj-list">
+            <header>
+              <p class="menubrj-list-title">Follow us</p>
+            </header>
+            <!--
+                  <div class="menu-header-socials-container"><ul id="menu-header-socials" class="menu"><li id="menu-item-343" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-343"><a href="https://www.facebook.com/braziljournalnews">Facebook</a></li>
+<li id="menu-item-344" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-344"><a href="https://twitter.com/BrazilJournal">Twitter</a></li>
+<li id="menu-item-345" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-345"><a href="https://www.linkedin.com/in/geraldo-samor-17953810/">Linkedin</a></li>
+<li id="menu-item-346" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-346"><a href="https://www.instagram.com/braziljournal/">Instagram</a></li>
+<li id="menu-item-347" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-347"><a href="https://www.youtube.com/channel/UCitcBG_14yPhOxpA7xkteug">Youtube</a></li>
+</ul></div> -->
+            <ul>
+              <li>
+                <a href="https://www.facebook.com/braziljournalnews" target="_blank">Facebook</a>
+              </li>
+              <li>
+                <a href="https://twitter.com/BrazilJournal" target="_blank">Twitter</a>
+              </li>
+              <li>
+                <a href="https://www.linkedin.com/company/brazil-journal/" target="_blank">Linkedin</a>
+              </li>
+              <li>
+                <a href="https://www.instagram.com/braziljournal/" target="_blank">Instagram</a>
+              </li>
+              <li>
+                <a href="https://www.youtube.com/channel/UCitcBG_14yPhOxpA7xkteug" target="_blank">YouTube</a>
+              </li>
+              <li class="newscta">
+                <a href="javascript:(0)" data-toggle="modal" data-target="#modalNews">Newsletter</a>
+              </li>
+            </ul>
+          </nav>
+        </div>
+        <!-- !brazil journal & follow us-->
+      </div>
+    </div>
+    <!-- !menubrj-row-->
+  </nav>
+  <!-- !menubrj-->
+</header>    <!-- !headerbrj-->
+
+    
+<div class="container-brj banner-ad banner-ad--header" style="background-color: #2b2b2b;" >
+    <div class="banner-ad-wrap">
+        <div id="ad-top" class="banner-ad-item"></div>
+    </div>
+</div>
+    <!-- maincontent -->
+    <div class="wrap-bj moduleSingle-container">
+      <div class="row fix-print">
+        <div class="col-12 col-xl-8">
+                    <header class="post-header">
+            <a class="post-header-section" href="https://braziljournal.com/negocios/">
+              Negócios            </a>
+            <h1 class="post-header-title">
+                            “Light precisará de muito capex para se viabilizar,” diz CEO            </h1>
+            <p class="post-header-lead"></p>
+            <div class="post-header-info">
+              <time class="post-time">
+                26 de fevereiro de 2024              </time>
+            </div>
+                              
+                      <figure class="post-header-img no-print">
+                        <picture><source media="(min-width: 800px)" srcset="https://braziljournal.com/wp-content/uploads/2023/07/light.jpg.webp" /><source media="(min-width: 800px)" srcset="https://braziljournal.com/wp-content/uploads/2023/07/light.jpg" /><img src="https://braziljournal.com/wp-content/uploads/2023/07/light.jpg?x67746" alt="“Light precisará de muito capex para se viabilizar,” diz CEO" loading="lazy""></picture>                      </figure>
+                                <!-- //               <figure class="post-header-img no-print fix-video">
+              //                                 //               </figure> -->
+                                           
+              <!-- //           <figure class="post-header-img no-print">
+              //                           //           </figure> -->
+                       
+          </header>
+          <section class="row post-content">
+            <div class="col-12 col-md-2 col-lg-3 no-mobile no-print">
+              <nav class="menusocial menusocial--column">
+    <ul>
+        <li>
+            <a class="menusocial-item"
+                href="https://twitter.com/intent/tweet?text=%E2%80%9CLight+precisar%C3%A1+de+muito+capex+para+se+viabilizar%2C%E2%80%9D+diz+CEO&amp;&amp;url=https://braziljournal.com/light-precisara-de-muito-capex-para-se-viabilizar-diz-ceo/"
+                title="" target="_blank" rel="noopener noreferrer" data-target="twitter" data-id="5585"
+                onClick="janelaSecundaria('https://twitter.com/intent/tweet?text=%E2%80%9CLight+precisar%C3%A1+de+muito+capex+para+se+viabilizar%2C%E2%80%9D+diz+CEO&amp;&amp;url=https://braziljournal.com/light-precisara-de-muito-capex-para-se-viabilizar-diz-ceo/')">
+                <svg width="26" height="26" viewBox="0 0 27 28" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M25.0944 24.7697L16.2017 11.8971L15.1963 10.4411L8.83525 1.23328L8.30827 0.470074H0.491699L2.39788 3.23031L10.8555 15.475L11.8609 16.9291L18.6565 26.7677L19.1835 27.5299H27.0001L25.0939 24.7697H25.0944ZM20.113 25.7682L13.053 15.5468L12.0476 14.0918L3.85486 2.23179H7.37875L14.0042 11.8233L15.0096 13.2784L23.6369 25.7682H20.113Z" fill="black"/>
+                    <path d="M12.0476 14.0923L13.053 15.5473L11.8609 16.9296L2.71605 27.5299H0.46106L10.8555 15.475L12.0476 14.0923Z" fill="black"/>
+                    <path d="M26.0597 0.470074L16.2017 11.8971L15.0101 13.2784L14.0047 11.8233L15.1963 10.4416L21.8741 2.69723L23.8043 0.470074H26.0597Z" fill="black"/>
+                </svg>
+            </a>
+        </li>
+        <li>
+            <a class="menusocial-item"
+                href="https://www.facebook.com/sharer/sharer.php?u=https://braziljournal.com/light-precisara-de-muito-capex-para-se-viabilizar-diz-ceo/" title=""
+                target="_blank" rel="noopener noreferrer" data-target="facebook" data-id="5585"
+                onClick="janelaSecundaria('https://www.facebook.com/sharer/sharer.php?u=https://braziljournal.com/light-precisara-de-muito-capex-para-se-viabilizar-diz-ceo/')">
+                <svg class="bjicon-facebook" width="26" height="26" viewBox="0 0 26 26" fill="none"
+                xmlns="http://www.w3.org/2000/svg">
+                <path fill-rule="evenodd" clip-rule="evenodd"
+                    d="M12.9503 25.9999L12.962 26H12.958L12.9503 25.9999ZM13.042 26H13.038L13.0497 25.9999L13.042 26ZM12.9106 25.9997L12.9232 25.9998H12.916L12.9106 25.9997V25.9997ZM13.084 25.9998H13.0768L13.0894 25.9997L13.084 25.9998ZM12.8723 25.9994L12.8807 25.9995L12.874 25.9994H12.8723ZM13.126 25.9994L13.1193 25.9995L13.1277 25.9994H13.126ZM13.1679 25.999L13.165 25.999L13.1763 25.9989L13.1679 25.999ZM12.8237 25.9989L12.835 25.999L12.8321 25.999L12.8237 25.9989V25.9989ZM13.2098 25.9984L13.203 25.9985L13.2169 25.9983L13.2098 25.9984ZM12.7831 25.9983L12.797 25.9985L12.7902 25.9984L12.7831 25.9983V25.9983ZM13.2517 25.9977L13.2424 25.9978L13.2553 25.9976L13.2517 25.9977ZM12.7447 25.9976L12.7576 25.9978L12.7483 25.9977L12.7447 25.9976ZM12.6971 25.9966L12.7085 25.9969L12.7065 25.9968L12.6971 25.9966ZM13.2935 25.9968L13.2915 25.9969L13.3029 25.9966L13.2935 25.9968ZM12.6553 25.9955L12.671 25.9959L12.6647 25.9958L12.6553 25.9955ZM13.3353 25.9958L13.329 25.9959L13.3447 25.9955L13.3353 25.9958ZM13.3771 25.9947L13.3669 25.995L13.3829 25.9945L13.3771 25.9947V25.9947ZM12.6171 25.9945L12.6331 25.995L12.6229 25.9947L12.6171 25.9945V25.9945ZM12.5805 25.9934L12.5919 25.9938L12.5812 25.9934L12.5713 25.9931L12.5805 25.9934V25.9934ZM13.4188 25.9934L13.4081 25.9938L13.4195 25.9934L13.4287 25.9931L13.4188 25.9934ZM13.4605 25.992L13.4548 25.9922L13.4724 25.9916L13.4605 25.992ZM12.5276 25.9916L12.5452 25.9922L12.5395 25.992L12.5276 25.9916ZM12.4896 25.9902L12.508 25.9909L12.4978 25.9905L12.4896 25.9902ZM13.5022 25.9905L13.492 25.9909L13.5104 25.9902L13.5022 25.9905ZM12.4523 25.9887L12.4702 25.9894L12.4562 25.9889L12.4523 25.9887V25.9887ZM13.5438 25.9889L13.5298 25.9894L13.5477 25.9887L13.5438 25.9889V25.9889ZM12.4 25.9864L12.4193 25.9873L12.4145 25.9871L12.4 25.9864ZM13.5855 25.9871L13.5807 25.9873L13.6 25.9864L13.5855 25.9871ZM12.3624 25.9847L12.3824 25.9856L12.373 25.9852L12.3624 25.9847ZM13.627 25.9852L13.6176 25.9856L13.6376 25.9847L13.627 25.9852ZM12.3255 25.9828L12.3456 25.9838L12.3315 25.9831L12.3255 25.9828ZM13.6685 25.9831L13.6544 25.9838L13.6745 25.9828L13.6685 25.9831ZM13.7101 25.981L13.6917 25.9819L13.708 25.9811L13.7272 25.98L13.7101 25.981ZM12.292 25.9811L12.3083 25.9819L12.2899 25.981L12.2728 25.98L12.292 25.9811ZM13.7515 25.9786L13.7434 25.9791L13.764 25.9779L13.7515 25.9786ZM12.236 25.9779L12.2566 25.9791L12.2485 25.9786L12.236 25.9779ZM12.1993 25.9757L12.2199 25.9769L12.2071 25.9762L12.1993 25.9757V25.9757ZM13.7929 25.9762L13.7801 25.9769L13.8007 25.9757L13.7929 25.9762ZM12.1643 25.9735L12.1829 25.9747L12.1656 25.9736L12.1482 25.9725L12.1643 25.9735ZM13.8344 25.9736L13.8171 25.9747L13.8357 25.9735L13.8518 25.9725L13.8344 25.9736V25.9736ZM13.8757 25.971L13.8695 25.9714L13.8892 25.97L13.8757 25.971V25.971ZM12.1108 25.97L12.1305 25.9714L12.1243 25.971L12.1108 25.97V25.97ZM12.0742 25.9675L12.0935 25.9689L12.0829 25.9682L12.0742 25.9675ZM13.9171 25.9682L13.9065 25.9689L13.9258 25.9675L13.9171 25.9682V25.9682ZM12.0377 25.9649L12.0554 25.9662L12.0417 25.9652L12.0377 25.9649ZM13.9583 25.9652L13.9446 25.9662L13.9623 25.9649L13.9583 25.9652ZM11.9886 25.9612L12.0041 25.9624L12.0004 25.9621L11.9886 25.9612V25.9612ZM13.9996 25.9621L13.9959 25.9624L14.0114 25.9612L13.9996 25.9621V25.9621ZM14.0408 25.9589L14.0334 25.9595L14.0492 25.9582L14.0408 25.9589V25.9589ZM11.9508 25.9582L11.9666 25.9595L11.9592 25.9589L11.9508 25.9582V25.9582ZM11.914 25.9552L11.9274 25.9563L11.918 25.9556L11.914 25.9552ZM14.082 25.9556L14.0726 25.9563L14.086 25.9552L14.082 25.9556V25.9556ZM11.8735 25.9518L11.8775 25.9522L11.8768 25.9521L11.8735 25.9518V25.9518ZM14.1232 25.9521L14.1225 25.9522L14.1265 25.9518L14.1232 25.9521V25.9521ZM14.1643 25.9485L14.1607 25.9488L14.1698 25.948L14.1643 25.9485V25.9485ZM11.8302 25.948L11.8393 25.9488L11.8357 25.9485L11.8302 25.948V25.948ZM11.7921 25.9445L11.7989 25.9452L11.7947 25.9448L11.7921 25.9445ZM14.2053 25.9448L14.2011 25.9452L14.2079 25.9445L14.2053 25.9448ZM10.9688 25.842C4.75724 24.8656 0 19.484 0 13C0 5.82513 5.82512 0 13 0C20.1749 0 26 5.82513 26 13C26 19.484 21.2428 24.8656 15.0312 25.842V16.7578H18.0604L18.6367 13H15.0312V10.5615C15.0312 9.53339 15.5349 8.53127 17.1498 8.53127H18.7891V5.33204C18.7891 5.33204 17.3014 5.07814 15.879 5.07814C12.9096 5.07814 10.9688 6.87783 10.9688 10.136V13H7.66797V16.7578H10.9688V25.842Z"
+                    fill="black" />
+                </svg>
+            </a>
+        </li>
+        <li>
+            <a class="menusocial-item"
+                href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https://braziljournal.com/light-precisara-de-muito-capex-para-se-viabilizar-diz-ceo/&amp;title=%E2%80%9CLight+precisar%C3%A1+de+muito+capex+para+se+viabilizar%2C%E2%80%9D+diz+CEO"
+                title="" target="_blank" rel="noopener noreferrer" data-target="linkedin" data-id="5585"
+                onClick="janelaSecundaria('http://www.linkedin.com/shareArticle?mini=true&amp;url=https://braziljournal.com/light-precisara-de-muito-capex-para-se-viabilizar-diz-ceo/&amp;title=%E2%80%9CLight+precisar%C3%A1+de+muito+capex+para+se+viabilizar%2C%E2%80%9D+diz+CEO')">
+                <svg class="bjicon-linkedin" width="26" height="27" viewBox="0 0 26 27" fill="none"
+                xmlns="http://www.w3.org/2000/svg">
+                <path d="M13.9814 11.8029V11.7609C13.9726 11.775 13.9634 11.7892 13.9541 11.8029H13.9814Z"
+                    fill="black" />
+                <path
+                    d="M24.0778 0H1.92061C0.860091 0 0 0.839575 0 1.87431V24.2909C0 25.3251 0.860091 26.1647 1.92061 26.1647H24.0778C25.1399 26.1647 26 25.3246 26 24.2909V1.87431C26 0.839049 25.1394 0 24.0778 0ZM7.88075 21.9031H3.95379V10.0886H7.88075V21.9031ZM5.91753 8.47466H5.89123C4.574 8.47466 3.7218 7.56722 3.7218 6.43359C3.7218 5.2747 4.6003 4.39251 5.94331 4.39251C7.28684 4.39251 8.11326 5.2747 8.13956 6.43359C8.13956 7.56722 7.28631 8.47466 5.91753 8.47466ZM22.0415 21.9031H18.1145V15.5811C18.1145 13.9934 17.5464 12.9098 16.1255 12.9098C15.0408 12.9098 14.3948 13.6405 14.1102 14.3464C14.0066 14.5984 13.9813 14.9509 13.9813 15.3044V21.9026H10.0544C10.0544 21.9026 10.1059 11.1954 10.0544 10.0881H13.9813V11.7604C14.5032 10.9555 15.4364 9.80925 17.5211 9.80925C20.1046 9.80925 22.042 11.4984 22.042 15.1276V21.9031H22.0415Z"
+                    fill="black" />
+                </svg>
+            </a>
+        </li>
+        <li>
+            <a class="menusocial-item"
+                href="https://api.whatsapp.com/send?text=%E2%80%9CLight+precisar%C3%A1+de+muito+capex+para+se+viabilizar%2C%E2%80%9D+diz+CEO%20https://braziljournal.com/light-precisara-de-muito-capex-para-se-viabilizar-diz-ceo/"
+                title="" target="_blank" rel="noopener noreferrer" data-target="whatsapp" data-id="5585"
+                onClick="janelaSecundaria('https://api.whatsapp.com/send?text=%E2%80%9CLight+precisar%C3%A1+de+muito+capex+para+se+viabilizar%2C%E2%80%9D+diz+CEO%20https://braziljournal.com/light-precisara-de-muito-capex-para-se-viabilizar-diz-ceo/')">
+                <svg class="bjicon-whatsapp" width="27" height="27" viewBox="0 0 27 27" fill="none"
+                xmlns="http://www.w3.org/2000/svg">
+                <path fill-rule="evenodd" clip-rule="evenodd"
+                    d="M22.2709 3.80662C19.8202 1.35316 16.5612 0.0014226 13.089 0C5.93457 0 0.111648 5.82245 0.108855 12.979C0.107854 15.2668 0.705558 17.4998 1.84148 19.4682L0 26.1943L6.88092 24.3893C8.77678 25.4234 10.9114 25.9685 13.0838 25.9692H13.0891C13.0895 25.9692 13.0887 25.9692 13.0892 25.9692C20.2428 25.9692 26.0661 20.1462 26.0691 12.9894C26.0704 9.52111 24.7215 6.25998 22.2709 3.80662ZM13.089 23.7771H13.0846C11.1488 23.7763 9.25008 23.2562 7.59364 22.2733L7.19974 22.0395L3.1165 23.1106L4.20643 19.1295L3.94988 18.7212C2.86997 17.0036 2.29961 15.0183 2.30046 12.9798C2.30277 7.03151 7.14257 2.19223 13.0934 2.19223C15.9749 2.19313 18.6837 3.31682 20.7206 5.35605C22.7575 7.39527 23.8786 10.1059 23.8774 12.9885C23.875 18.9373 19.0354 23.7771 13.089 23.7771Z"
+                    fill="black" />
+                <path fill-rule="evenodd" clip-rule="evenodd"
+                    d="M19.0063 15.6969C18.682 15.5345 17.0874 14.75 16.7902 14.6417C16.4929 14.5335 16.2767 14.4794 16.0605 14.8041C15.8443 15.1287 15.2227 15.8593 15.0335 16.0758C14.8444 16.2921 14.6551 16.3193 14.3309 16.1568C14.0066 15.9945 12.9615 15.6521 11.7228 14.5471C10.7585 13.6871 10.1077 12.6251 9.91842 12.3003C9.72927 11.9757 9.8983 11.8002 10.0607 11.6384C10.2066 11.4931 10.385 11.2597 10.5472 11.0702C10.7093 10.8809 10.7634 10.7455 10.8715 10.5292C10.9796 10.3127 10.9256 10.1233 10.8445 9.96104C10.7634 9.7987 10.1148 8.20233 9.84455 7.55283C9.58121 6.92051 9.31387 7.00619 9.11476 6.99612C8.92587 6.98669 8.70937 6.98474 8.49319 6.98474C8.277 6.98474 7.92557 7.06593 7.62835 7.39055C7.33108 7.71527 6.49316 8.49997 6.49316 10.0962C6.49316 11.6926 7.65532 13.2348 7.8175 13.4512C7.97963 13.6678 10.1045 16.9435 13.3579 18.3484C14.1317 18.6826 14.7358 18.8821 15.2068 19.0316C15.9838 19.2785 16.6908 19.2436 17.2496 19.1601C17.8728 19.067 19.1685 18.3755 19.4387 17.618C19.709 16.8603 19.709 16.2109 19.6279 16.0757C19.5469 15.9404 19.3306 15.8593 19.0063 15.6969Z"
+                    fill="black" />
+                </svg>
+            </a>
+        </li>
+        <li>
+            <a class="menusocial-item"
+                href="mailto:?Subject=BRAZIL JOURNAL: %E2%80%9CLight%20precisar%C3%A1%20de%20muito%20capex%20para%20se%20viabilizar%2C%E2%80%9D%20diz%20CEO&amp;body=https://braziljournal.com/light-precisara-de-muito-capex-para-se-viabilizar-diz-ceo/"
+                title="" data-target="email" data-id="5585">
+                <svg class="bjicon-email" width="27" height="21" viewBox="0 0 27 21" fill="none"
+                xmlns="http://www.w3.org/2000/svg">
+                <path fill-rule="evenodd" clip-rule="evenodd"
+                    d="M23.625 0H2.625C1.18125 0 0 1.18125 0 2.625V18.375C0 19.8188 1.18125 21 2.625 21H23.625C25.0688 21 26.25 19.8188 26.25 18.375V2.625C26.25 1.18125 25.0688 0 23.625 0ZM23.625 5.25L13.125 11.8125L2.625 5.25V2.625L13.125 9.1875L23.625 2.625V5.25Z"
+                    fill="black" />
+                </svg>
+            </a>
+        </li>
+    </ul>
+    <ul>
+        <li>
+            <a class="menusocial-item" href="#" title="" onClick="window.print()" data-target="email"
+                data-id="55823">
+                <svg width="28" height="28" viewBox="0 0 28 28" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path
+                    d="M25.375 7.87499H2.62514C1.92894 7.87499 1.26119 8.15168 0.768848 8.64384C0.276706 9.13619 0 9.80388 0 10.5001V20.1251C0 20.8213 0.276691 21.4888 0.768848 21.9811C1.26119 22.4735 1.92889 22.75 2.62514 22.75H4.37523V25.3749H4.37502C4.37502 26.0711 4.65172 26.7388 5.14387 27.2312C5.63622 27.7233 6.30392 28 7.00016 28H21.0001C21.6962 28 22.364 27.7233 22.8563 27.2312C23.3485 26.7388 23.6252 26.0711 23.6252 25.3749V22.75H25.3753H25.3751C26.0713 22.75 26.739 22.4735 27.2314 21.9811C27.7235 21.4888 28.0002 20.8213 28.0002 20.1251V10.5001C28.0002 9.80394 27.7235 9.13618 27.2314 8.64384C26.739 8.1517 26.0713 7.87499 25.3751 7.87499H25.375ZM20.125 24.4999H7.8751V18.3749H20.125V24.4999ZM21.8751 5.25001H6.12521V2.62514C6.12521 1.92894 6.4017 1.26119 6.89406 0.768848C7.38621 0.276706 8.05395 0 8.75014 0H19.2501C19.9463 0 20.614 0.276691 21.1061 0.768848C21.5985 1.26119 21.875 1.92889 21.875 2.62514L21.8751 5.25001Z"
+                    fill="black" />
+                </svg>
+            </a>
+        </li>
+        <li class="btn-font-size" data-id="1">
+            <div class="menusocial-item font-item">
+                <svg width="31" height="25" viewBox="0 0 31 25" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path
+                    d="M10.584 25V23.4225H12.5807L11.6073 20.2676H5.24293L4.24459 23.4225H6.29118V25H1V23.4225H2.198L6.84027 9H10.1847L14.802 23.4225H16V25H10.584ZM8.4376 10.0266L5.81697 18.4397H11.0333L8.4376 10.0266Z"
+                    fill="black" />
+                <path
+                    d="M24.1398 25V23.4028H26.6689L25.4359 17.6056H17.3744L16.1098 23.4028H18.7022V25H12V23.4028H13.5175L19.3977 0H23.6339L29.4825 23.4028H31V25H24.1398ZM21.421 1.60407L18.1015 14.7496H24.7088L21.421 1.60407Z"
+                    fill="black" />
+                </svg>
+            </div>
+        </li>
+    </ul>
+    <div class="minus-plus-wrap" data-id="1">
+
+        <button class="btn-font small-font">
+        Pequena
+        </button>
+
+        <button class="btn-font medium-font">
+        Média
+        </button>
+
+        <button class="btn-font large-font">
+        Grande
+        </button>
+
+    </div>
+</nav>            </div>
+            <div class="col-12 col-md-10 col-lg-9">
+              <div class="post-author">
+              </div>
+              <div class="post-content-text">
+                <p>Depois de trocar o <em>management</em> e assessores, e negociar por quase um ano, a Light e seus credores ainda não chegaram a um acordo.</p> 
+<p>Na sexta-feira, depois de receber uma proposta informal de alguns credores, a empresa protocolou um novo plano de recuperação judicial que vai ser apreciado na assembleia de credores em 21 de março.</p> 
+<p>O plano contempla uma injeção de dinheiro novo da ordem de até R$ 1,5 bilhão e uma capitalização mínima de R$ 3,5 bilhões, incluindo a conversão de dívidas. O plano ainda pode sofrer alterações até a data da assembleia, mas a Light não descarta que as discussões acabem no âmbito do Judiciário.</p> 
+<p>Desde o pedido de recuperação judicial no ano passado, o cenário para as distribuidoras em geral sofreu uma forte deterioração – na esteira da crise da Enel em São Paulo – com problemas operacionais e cobrança de reguladores. Neste cenário, além de buscar um acordo com os credores, a Light discute com a Aneel a renovação de sua concessão, que expira em 2026.</p> 
+<p>Nesta conversa com o <a href="https://www.instagram.com/braziljournal/" target="_blank" rel="noopener nofollow">Brazil Journal</a>, o CEO Alexandre Nogueira explicou o racional do plano e os desafios da empresa.</p> 
+<p><strong>Depois de quase um ano de negociações, a Light apresentou esse novo plano de RJ. Qual o racional por trás dele?</strong></p> 
+<p>Este novo plano tem o foco na reestruturação financeira da companhia de forma que ela seja capaz de cumprir seu papel mais importante: fornecer energia com qualidade para os nossos 12 milhões de consumidores.</p> 
+<p><img fetchpriority="high" decoding="async" class="size-medium wp-image-64307 alignright" src="https://braziljournal.com/wp-content/uploads/2023/10/boopo-alexandre-nogueira-260x300.jpg?x67746" alt="alexandre nogueira" width="260" height="300" title="“Light precisará de muito capex para se viabilizar,” diz CEO 1" srcset="https://braziljournal.com/wp-content/uploads/2023/10/boopo-alexandre-nogueira-260x300.jpg 260w, https://braziljournal.com/wp-content/uploads/2023/10/boopo-alexandre-nogueira.jpg 746w" sizes="(max-width: 260px) 100vw, 260px" />Para manter a companhia e a concessão sustentáveis no longo prazo, estamos buscando atender também aos nossos credores da melhor maneira possível.</p> 
+<p>Essa proposta que apresentamos na sexta-feira é inédita no Brasil, pois estamos propondo o pagamento integral à maior parte das pessoas físicas credoras e, além disso, dando condições mais vantajosas para quem apoiar o plano, contribuindo para a desalavancagem da companhia. Um processo de recuperação saudável é importante não só para a Light, mas também para o Rio de Janeiro. A Nova Light vai ser essencial para a recuperação da economia do Rio, um reencontro da empresa com a sociedade fluminense.</p> 
+<p><strong>Muitos credores estão reclamando que houve um retrocesso em relação ao plano original. Por que existe esta percepção?</strong></p> 
+<p>Não, muito pelo contrário. O plano original, apresentado pelo assessor financeiro que representava a empresa à época, previa deságios, e este novo plano apresenta várias alternativas para credores que desejarem apoiar a companhia em sua recuperação.</p> 
+<p>Diferentemente do plano anterior, o novo propõe uma injeção de capital, com a intenção dos acionistas de referência de fazer um aporte de R$ 1 bilhão. Esse “dinheiro novo” dos acionistas é extremamente necessário para a recuperação da companhia sem aumentar o endividamento.</p> 
+<p>Além disso, 60% dos credores que apoiarem o plano terão o pagamento integral de seus créditos, e quem tem valores a receber até R$ 30 mil receberá pagamento integral e à vista.</p> 
+<p><strong>Qual é a situação operacional e financeira da Light hoje?</strong></p> 
+<p>A Light segue operando com os desafios inerentes de sua área de concessão, que a essa altura a maior parte das pessoas já conhece. Temos indicadores de qualidade entre os melhores do País, mas a companhia tem plena consciência do desafio que são os investimentos necessários para atender aos seus consumidores. Financeiramente, estamos nos mantendo adimplentes com as obrigações intrassetoriais, fiscais e também com nossos funcionários e fornecedores.</p> 
+<p>Acreditamos que uma vez superado esse processo de recuperação judicial, abre-se um novo horizonte de melhorias e avanços para a empresa. A Light tem um parque de ativos bem antigo que necessita atualizações. Ela precisará de muito capex para se viabilizar. Há uma demanda de esforços e investimentos relevantes da concessionária na modernização de seus ativos.</p> <div>
+              <article class="d-xl-none post-wrapmkt-adds no-print">
+                    <div id="ad-article-inside-1" class="text-center"></div>
+              </article>
+
+              <article class="d-xl-none post-wrapmkt-adds no-print">
+                    <div id="ad-article-inside-2" class="text-center"></div>
+              </article>
+
+            </div>
+<p>Temos uma situação bem delicada, por exemplo, envolvendo a Ilha do Governador, onde a rede precisa ser modernizada e há um risco para o fornecimento.  Temos investido bastante tempo e recursos nisso, nossas equipes têm perdido muitas noites de sono, mas vamos conseguir.  Mas este é apenas um exemplo dos desafios que temos.</p> 
+<p><strong>O que o processo de renovação pode gerar de obrigações?</strong></p> 
+<p>Como já foi anunciado pelo Governo, para se renovar as concessões as empresas deverão ter um balanço financeiro equilibrado para fazer jus às obrigações, sobretudo aos investimentos para melhoria de qualidade e atendimento à população. A energia elétrica é um serviço essencial para o desenvolvimento econômico e social, e as nossas obrigações serão embasadas na melhoria do atendimento.</p> 
+<p><strong>Já existe um entendimento em Brasília de que é preciso mudar as regras da concessão para reconhecer a realidade estrutural do roubo de energia no Rio de Janeiro?</strong></p> 
+<p>Não posso falar pelo Governo nem pelo regulador, mas esta realidade existe não somente no Rio, mas também em outros Estados. Claro que a realidade do Rio se mostra mais intensa neste aspecto, mas já há discussões para aprofundar este tema e vários debates junto a representantes de classe e sociedade.</p> 
+<p><strong>O que o processo de recuperação da empresa envolve, para além da reestruturação financeira?</strong></p> 
+<p>A empresa tem dois desequilíbrios: o financeiro e o econômico. Essas duas ações andam juntas, e a saída tem que passar pela desalavancagem e pelo reequilíbrio contratual. Esta é a saída para que a empresa possa sair da situação atual o mais rápido possível, retomar sua sustentabilidade e fazer jus às suas obrigações.</p> 
+<p><strong>Como vai ser usado o dinheiro novo que será injetado na companhia?</strong></p> 
+<p>A intenção dos acionistas é que a holding aporte na distribuidora todo este dinheiro novo. Esse aporte automaticamente reduzirá o endividamento e dará fôlego para que a companhia possa ter recursos para fazer jus às obrigações de investimento e ao pagamento da dívida na sua integralidade, algo que não estava previsto no plano anterior.</p> 
+<p><strong>Por que o plano prevê que o aumento de capital será feito a um preço que é a média dos 60 dias anteriores?</strong></p> 
+<p>Essa é uma métrica comum de mercado, que foi usada em várias outras RJs, inclusive na Americanas, com aporte de recursos e conversão de dívida em níveis muito maiores do que na Light. É importante ressaltar que haverá dinheiro novo, essencial ao plano da Light, sendo aportado neste mesmo valuation.</p> 
+<p><strong>Existe perspectiva de trazer dinheiro novo além da ancoragem dos atuais acionistas de referência?</strong></p> 
+<p>Esta possibilidade está aberta a todos os acionistas que desejarem acompanhar o aumento de capital. A Light vê com muito bons olhos uma injeção de capital novo acima do proposto no plano. Se houver interesse, estamos abertos.</p> 
+<p><strong>⁠Como os atuais credores poderão participar de um eventual upside em caso da renovação da concessão e de um turnaround bem-sucedido da Light?</strong></p> 
+<p>O credor que converter parte dos seus créditos em ações naturalmente participará de todo o upside da companhia. Por isso esse credor tem condições melhores, pois, ao converter créditos em ações, ele está acreditando na transformação da empresa. É um sinal de confiança importante.</p> 
+
+         
+
+                    <!--begin code -->
+
+                    
+                    <span class="pp-multiple-authors-boxes-wrapper pp-multiple-authors-wrapper pp-multiple-authors-layout-inline multiple-authors-target-the-content box-post-id-51760 box-instance-id-1 ppma_boxes_51760"
+                    data-post_id="51760"
+                    data-instance_id="1"
+                    data-additional_class="pp-multiple-authors-layout-inline.multiple-authors-target-the-content"
+                    data-original_class="pp-multiple-authors-boxes-wrapper pp-multiple-authors-wrapper box-post-id-51760 box-instance-id-1">
+                                                <span class="ppma-layout-prefix"></span>
+                                                                                                                                                                                                                                        
+                                                                                        
+                                            <span class="pp-author-boxes-avatar-details">
+                                                                                                <span class="pp-author-boxes-name multiple-authors-name">
+                                                        <a href="https://braziljournal.com/author/geraldo-samor/" rel="author" title="Geraldo Samor" class="author url fn">Geraldo Samor</a>                                                    </span>
+                                                                                                                                                                                                
+                                                                                                
+                                                                                            </span>
+                                                                                                                                                                                                                            <span class="ppma-layout-suffix"></span>
+                    </span>
+                    <!--end code -->
+                    
+                
+                                <style>
+                .pp-multiple-authors-boxes-wrapper.box-post-id-51760.pp-multiple-authors-layout-inline.multiple-authors-target-the-content.box-instance-id-1 .pp-author-boxes-avatar img { width: 80px !important; height: 80px !important; } .pp-multiple-authors-boxes-wrapper.box-post-id-51760.pp-multiple-authors-layout-inline.multiple-authors-target-the-content.box-instance-id-1 .pp-author-boxes-avatar img { border-radius: 50% !important; } .pp-multiple-authors-boxes-wrapper.box-post-id-51760.pp-multiple-authors-layout-inline.multiple-authors-target-the-content.box-instance-id-1 .pp-author-boxes-meta a { background-color: #655997 !important; } .pp-multiple-authors-boxes-wrapper.box-post-id-51760.pp-multiple-authors-layout-inline.multiple-authors-target-the-content.box-instance-id-1 .pp-author-boxes-meta a { color: #ffffff !important; } .pp-multiple-authors-boxes-wrapper.box-post-id-51760.pp-multiple-authors-layout-inline.multiple-authors-target-the-content.box-instance-id-1 .pp-author-boxes-meta a:hover { color: #ffffff !important; } .pp-multiple-authors-boxes-wrapper.box-post-id-51760.pp-multiple-authors-layout-inline.multiple-authors-target-the-content.box-instance-id-1 .pp-author-boxes-recent-posts-title { border-bottom-style: dotted !important; } .pp-multiple-authors-boxes-wrapper.box-post-id-51760.pp-multiple-authors-layout-inline.multiple-authors-target-the-content.box-instance-id-1 .pp-author-boxes-recent-posts-item { text-align: left !important; } .pp-multiple-authors-boxes-wrapper.box-post-id-51760.pp-multiple-authors-layout-inline.multiple-authors-target-the-content.box-instance-id-1 .pp-multiple-authors-boxes-li { border-style: none !important; } .pp-multiple-authors-boxes-wrapper.box-post-id-51760.pp-multiple-authors-layout-inline.multiple-authors-target-the-content.box-instance-id-1 .pp-multiple-authors-boxes-li { color: #3c434a !important; } .pp-multiple-authors-layout-inline ul.pp-multiple-authors-boxes-ul {
+            display: flex;
+        }
+
+        .pp-multiple-authors-layout-inline ul.pp-multiple-authors-boxes-ul li {
+            margin-right: 10px
+        }
+
+        .pp-multiple-authors-layout-inline .pp-author-boxes-name::after{
+            content: ",";
+        }
+
+        .pp-multiple-authors-layout-inline .pp-multiple-authors-boxes-ul .pp-multiple-authors-boxes-li:last-of-type .pp-author-boxes-name::after{
+            content: "";
+        }.pp-multiple-authors-boxes-wrapper.pp-multiple-authors-wrapper.pp-multiple-authors-layout-inline.multiple-authors-target-the-content.box-post-id-51760.box-instance-id-1.ppma_boxes_51760 ul li > div:nth-child(1) {flex: 1 !important;}            </style>
+                
+        </p>               </div>
+              <div class="post-footer">
+                <div class="col-12 col-md-2 col-lg-3 no-web no-print">
+                  <nav class="menusocial menusocial--share no-print">
+    <p>Compartilhe</p>
+    <ul>
+        <li>
+            <a class="menusocial-item"
+                href="https://twitter.com/intent/tweet?text=%E2%80%9CLight+precisar%C3%A1+de+muito+capex+para+se+viabilizar%2C%E2%80%9D+diz+CEO&amp;&amp;url=https://braziljournal.com/light-precisara-de-muito-capex-para-se-viabilizar-diz-ceo/"
+                title="" target="_blank" rel="noopener noreferrer" data-target="twitter" data-id="5585">
+                <svg width="26" height="26" viewBox="0 0 27 28" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M25.0944 24.7697L16.2017 11.8971L15.1963 10.4411L8.83525 1.23328L8.30827 0.470074H0.491699L2.39788 3.23031L10.8555 15.475L11.8609 16.9291L18.6565 26.7677L19.1835 27.5299H27.0001L25.0939 24.7697H25.0944ZM20.113 25.7682L13.053 15.5468L12.0476 14.0918L3.85486 2.23179H7.37875L14.0042 11.8233L15.0096 13.2784L23.6369 25.7682H20.113Z" fill="black"/>
+                    <path d="M12.0476 14.0923L13.053 15.5473L11.8609 16.9296L2.71605 27.5299H0.46106L10.8555 15.475L12.0476 14.0923Z" fill="black"/>
+                    <path d="M26.0597 0.470074L16.2017 11.8971L15.0101 13.2784L14.0047 11.8233L15.1963 10.4416L21.8741 2.69723L23.8043 0.470074H26.0597Z" fill="black"/>
+                </svg>
+            </a>
+        </li>
+        <li>
+
+            <a class="menusocial-item"
+            href="https://www.facebook.com/sharer/sharer.php?u=https://braziljournal.com/light-precisara-de-muito-capex-para-se-viabilizar-diz-ceo/" title=""
+            target="_blank" rel="noopener noreferrer" data-target="facebook" data-id="5585">
+            <svg class="bjicon-facebook" width="26" height="26" viewBox="0 0 26 26" fill="none"
+                xmlns="http://www.w3.org/2000/svg">
+                <path fill-rule="evenodd" clip-rule="evenodd"
+                d="M12.9503 25.9999L12.962 26H12.958L12.9503 25.9999ZM13.042 26H13.038L13.0497 25.9999L13.042 26ZM12.9106 25.9997L12.9232 25.9998H12.916L12.9106 25.9997V25.9997ZM13.084 25.9998H13.0768L13.0894 25.9997L13.084 25.9998ZM12.8723 25.9994L12.8807 25.9995L12.874 25.9994H12.8723ZM13.126 25.9994L13.1193 25.9995L13.1277 25.9994H13.126ZM13.1679 25.999L13.165 25.999L13.1763 25.9989L13.1679 25.999ZM12.8237 25.9989L12.835 25.999L12.8321 25.999L12.8237 25.9989V25.9989ZM13.2098 25.9984L13.203 25.9985L13.2169 25.9983L13.2098 25.9984ZM12.7831 25.9983L12.797 25.9985L12.7902 25.9984L12.7831 25.9983V25.9983ZM13.2517 25.9977L13.2424 25.9978L13.2553 25.9976L13.2517 25.9977ZM12.7447 25.9976L12.7576 25.9978L12.7483 25.9977L12.7447 25.9976ZM12.6971 25.9966L12.7085 25.9969L12.7065 25.9968L12.6971 25.9966ZM13.2935 25.9968L13.2915 25.9969L13.3029 25.9966L13.2935 25.9968ZM12.6553 25.9955L12.671 25.9959L12.6647 25.9958L12.6553 25.9955ZM13.3353 25.9958L13.329 25.9959L13.3447 25.9955L13.3353 25.9958ZM13.3771 25.9947L13.3669 25.995L13.3829 25.9945L13.3771 25.9947V25.9947ZM12.6171 25.9945L12.6331 25.995L12.6229 25.9947L12.6171 25.9945V25.9945ZM12.5805 25.9934L12.5919 25.9938L12.5812 25.9934L12.5713 25.9931L12.5805 25.9934V25.9934ZM13.4188 25.9934L13.4081 25.9938L13.4195 25.9934L13.4287 25.9931L13.4188 25.9934ZM13.4605 25.992L13.4548 25.9922L13.4724 25.9916L13.4605 25.992ZM12.5276 25.9916L12.5452 25.9922L12.5395 25.992L12.5276 25.9916ZM12.4896 25.9902L12.508 25.9909L12.4978 25.9905L12.4896 25.9902ZM13.5022 25.9905L13.492 25.9909L13.5104 25.9902L13.5022 25.9905ZM12.4523 25.9887L12.4702 25.9894L12.4562 25.9889L12.4523 25.9887V25.9887ZM13.5438 25.9889L13.5298 25.9894L13.5477 25.9887L13.5438 25.9889V25.9889ZM12.4 25.9864L12.4193 25.9873L12.4145 25.9871L12.4 25.9864ZM13.5855 25.9871L13.5807 25.9873L13.6 25.9864L13.5855 25.9871ZM12.3624 25.9847L12.3824 25.9856L12.373 25.9852L12.3624 25.9847ZM13.627 25.9852L13.6176 25.9856L13.6376 25.9847L13.627 25.9852ZM12.3255 25.9828L12.3456 25.9838L12.3315 25.9831L12.3255 25.9828ZM13.6685 25.9831L13.6544 25.9838L13.6745 25.9828L13.6685 25.9831ZM13.7101 25.981L13.6917 25.9819L13.708 25.9811L13.7272 25.98L13.7101 25.981ZM12.292 25.9811L12.3083 25.9819L12.2899 25.981L12.2728 25.98L12.292 25.9811ZM13.7515 25.9786L13.7434 25.9791L13.764 25.9779L13.7515 25.9786ZM12.236 25.9779L12.2566 25.9791L12.2485 25.9786L12.236 25.9779ZM12.1993 25.9757L12.2199 25.9769L12.2071 25.9762L12.1993 25.9757V25.9757ZM13.7929 25.9762L13.7801 25.9769L13.8007 25.9757L13.7929 25.9762ZM12.1643 25.9735L12.1829 25.9747L12.1656 25.9736L12.1482 25.9725L12.1643 25.9735ZM13.8344 25.9736L13.8171 25.9747L13.8357 25.9735L13.8518 25.9725L13.8344 25.9736V25.9736ZM13.8757 25.971L13.8695 25.9714L13.8892 25.97L13.8757 25.971V25.971ZM12.1108 25.97L12.1305 25.9714L12.1243 25.971L12.1108 25.97V25.97ZM12.0742 25.9675L12.0935 25.9689L12.0829 25.9682L12.0742 25.9675ZM13.9171 25.9682L13.9065 25.9689L13.9258 25.9675L13.9171 25.9682V25.9682ZM12.0377 25.9649L12.0554 25.9662L12.0417 25.9652L12.0377 25.9649ZM13.9583 25.9652L13.9446 25.9662L13.9623 25.9649L13.9583 25.9652ZM11.9886 25.9612L12.0041 25.9624L12.0004 25.9621L11.9886 25.9612V25.9612ZM13.9996 25.9621L13.9959 25.9624L14.0114 25.9612L13.9996 25.9621V25.9621ZM14.0408 25.9589L14.0334 25.9595L14.0492 25.9582L14.0408 25.9589V25.9589ZM11.9508 25.9582L11.9666 25.9595L11.9592 25.9589L11.9508 25.9582V25.9582ZM11.914 25.9552L11.9274 25.9563L11.918 25.9556L11.914 25.9552ZM14.082 25.9556L14.0726 25.9563L14.086 25.9552L14.082 25.9556V25.9556ZM11.8735 25.9518L11.8775 25.9522L11.8768 25.9521L11.8735 25.9518V25.9518ZM14.1232 25.9521L14.1225 25.9522L14.1265 25.9518L14.1232 25.9521V25.9521ZM14.1643 25.9485L14.1607 25.9488L14.1698 25.948L14.1643 25.9485V25.9485ZM11.8302 25.948L11.8393 25.9488L11.8357 25.9485L11.8302 25.948V25.948ZM11.7921 25.9445L11.7989 25.9452L11.7947 25.9448L11.7921 25.9445ZM14.2053 25.9448L14.2011 25.9452L14.2079 25.9445L14.2053 25.9448ZM10.9688 25.842C4.75724 24.8656 0 19.484 0 13C0 5.82513 5.82512 0 13 0C20.1749 0 26 5.82513 26 13C26 19.484 21.2428 24.8656 15.0312 25.842V16.7578H18.0604L18.6367 13H15.0312V10.5615C15.0312 9.53339 15.5349 8.53127 17.1498 8.53127H18.7891V5.33204C18.7891 5.33204 17.3014 5.07814 15.879 5.07814C12.9096 5.07814 10.9688 6.87783 10.9688 10.136V13H7.66797V16.7578H10.9688V25.842Z"
+                fill="black" />
+            </svg>
+            </a>
+        </li>
+        <li>
+            <a class="menusocial-item"
+            href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https://braziljournal.com/light-precisara-de-muito-capex-para-se-viabilizar-diz-ceo/&amp;title=%E2%80%9CLight+precisar%C3%A1+de+muito+capex+para+se+viabilizar%2C%E2%80%9D+diz+CEO"
+            title="" target="_blank" rel="noopener noreferrer" data-target="linkedin" data-id="5585">
+            <svg class="bjicon-linkedin" width="26" height="27" viewBox="0 0 26 27" fill="none"
+                xmlns="http://www.w3.org/2000/svg">
+                <path d="M13.9814 11.8029V11.7609C13.9726 11.775 13.9634 11.7892 13.9541 11.8029H13.9814Z"
+                fill="black" />
+                <path
+                d="M24.0778 0H1.92061C0.860091 0 0 0.839575 0 1.87431V24.2909C0 25.3251 0.860091 26.1647 1.92061 26.1647H24.0778C25.1399 26.1647 26 25.3246 26 24.2909V1.87431C26 0.839049 25.1394 0 24.0778 0ZM7.88075 21.9031H3.95379V10.0886H7.88075V21.9031ZM5.91753 8.47466H5.89123C4.574 8.47466 3.7218 7.56722 3.7218 6.43359C3.7218 5.2747 4.6003 4.39251 5.94331 4.39251C7.28684 4.39251 8.11326 5.2747 8.13956 6.43359C8.13956 7.56722 7.28631 8.47466 5.91753 8.47466ZM22.0415 21.9031H18.1145V15.5811C18.1145 13.9934 17.5464 12.9098 16.1255 12.9098C15.0408 12.9098 14.3948 13.6405 14.1102 14.3464C14.0066 14.5984 13.9813 14.9509 13.9813 15.3044V21.9026H10.0544C10.0544 21.9026 10.1059 11.1954 10.0544 10.0881H13.9813V11.7604C14.5032 10.9555 15.4364 9.80925 17.5211 9.80925C20.1046 9.80925 22.042 11.4984 22.042 15.1276V21.9031H22.0415Z"
+                fill="black" />
+            </svg>
+            </a>
+        </li>
+        <li>
+            <a class="menusocial-item"
+            href="https://api.whatsapp.com/send?text=%E2%80%9CLight+precisar%C3%A1+de+muito+capex+para+se+viabilizar%2C%E2%80%9D+diz+CEO%20https://braziljournal.com/light-precisara-de-muito-capex-para-se-viabilizar-diz-ceo/"
+            title="" target="_blank" rel="noopener noreferrer" data-target="whatsapp" data-id="5585">
+            <svg class="bjicon-whatsapp" width="27" height="27" viewBox="0 0 27 27" fill="none"
+                xmlns="http://www.w3.org/2000/svg">
+                <path fill-rule="evenodd" clip-rule="evenodd"
+                d="M22.2709 3.80662C19.8202 1.35316 16.5612 0.0014226 13.089 0C5.93457 0 0.111648 5.82245 0.108855 12.979C0.107854 15.2668 0.705558 17.4998 1.84148 19.4682L0 26.1943L6.88092 24.3893C8.77678 25.4234 10.9114 25.9685 13.0838 25.9692H13.0891C13.0895 25.9692 13.0887 25.9692 13.0892 25.9692C20.2428 25.9692 26.0661 20.1462 26.0691 12.9894C26.0704 9.52111 24.7215 6.25998 22.2709 3.80662ZM13.089 23.7771H13.0846C11.1488 23.7763 9.25008 23.2562 7.59364 22.2733L7.19974 22.0395L3.1165 23.1106L4.20643 19.1295L3.94988 18.7212C2.86997 17.0036 2.29961 15.0183 2.30046 12.9798C2.30277 7.03151 7.14257 2.19223 13.0934 2.19223C15.9749 2.19313 18.6837 3.31682 20.7206 5.35605C22.7575 7.39527 23.8786 10.1059 23.8774 12.9885C23.875 18.9373 19.0354 23.7771 13.089 23.7771Z"
+                fill="black" />
+                <path fill-rule="evenodd" clip-rule="evenodd"
+                d="M19.0063 15.6969C18.682 15.5345 17.0874 14.75 16.7902 14.6417C16.4929 14.5335 16.2767 14.4794 16.0605 14.8041C15.8443 15.1287 15.2227 15.8593 15.0335 16.0758C14.8444 16.2921 14.6551 16.3193 14.3309 16.1568C14.0066 15.9945 12.9615 15.6521 11.7228 14.5471C10.7585 13.6871 10.1077 12.6251 9.91842 12.3003C9.72927 11.9757 9.8983 11.8002 10.0607 11.6384C10.2066 11.4931 10.385 11.2597 10.5472 11.0702C10.7093 10.8809 10.7634 10.7455 10.8715 10.5292C10.9796 10.3127 10.9256 10.1233 10.8445 9.96104C10.7634 9.7987 10.1148 8.20233 9.84455 7.55283C9.58121 6.92051 9.31387 7.00619 9.11476 6.99612C8.92587 6.98669 8.70937 6.98474 8.49319 6.98474C8.277 6.98474 7.92557 7.06593 7.62835 7.39055C7.33108 7.71527 6.49316 8.49997 6.49316 10.0962C6.49316 11.6926 7.65532 13.2348 7.8175 13.4512C7.97963 13.6678 10.1045 16.9435 13.3579 18.3484C14.1317 18.6826 14.7358 18.8821 15.2068 19.0316C15.9838 19.2785 16.6908 19.2436 17.2496 19.1601C17.8728 19.067 19.1685 18.3755 19.4387 17.618C19.709 16.8603 19.709 16.2109 19.6279 16.0757C19.5469 15.9404 19.3306 15.8593 19.0063 15.6969Z"
+                fill="black" />
+            </svg>
+            </a>
+        </li>
+        <li>
+            <a class="menusocial-item"
+            href="mailto:?Subject=BRAZIL JOURNAL: %E2%80%9CLight%20precisar%C3%A1%20de%20muito%20capex%20para%20se%20viabilizar%2C%E2%80%9D%20diz%20CEO&amp;body=https://braziljournal.com/light-precisara-de-muito-capex-para-se-viabilizar-diz-ceo/"
+            title="" data-target="email" data-id="5585">
+            <svg class="bjicon-email" width="27" height="21" viewBox="0 0 27 21" fill="none"
+                xmlns="http://www.w3.org/2000/svg">
+                <path fill-rule="evenodd" clip-rule="evenodd"
+                d="M23.625 0H2.625C1.18125 0 0 1.18125 0 2.625V18.375C0 19.8188 1.18125 21 2.625 21H23.625C25.0688 21 26.25 19.8188 26.25 18.375V2.625C26.25 1.18125 25.0688 0 23.625 0ZM23.625 5.25L13.125 11.8125L2.625 5.25V2.625L13.125 9.1875L23.625 2.625V5.25Z"
+                fill="black" />
+            </svg>
+            </a>
+        </li>
+        <li class="btn-font-size brands" data-id="2">
+            <div class="menusocial-item">
+            <svg width="31" height="25" viewBox="0 0 31 25" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path
+                    d="M10.584 25V23.4225H12.5807L11.6073 20.2676H5.24293L4.24459 23.4225H6.29118V25H1V23.4225H2.198L6.84027 9H10.1847L14.802 23.4225H16V25H10.584ZM8.4376 10.0266L5.81697 18.4397H11.0333L8.4376 10.0266Z"
+                    fill="black" />
+                <path
+                    d="M24.1398 25V23.4028H26.6689L25.4359 17.6056H17.3744L16.1098 23.4028H18.7022V25H12V23.4028H13.5175L19.3977 0H23.6339L29.4825 23.4028H31V25H24.1398ZM21.421 1.60407L18.1015 14.7496H24.7088L21.421 1.60407Z"
+                    fill="black" />
+            </svg>
+            </div>
+        </li>
+    </ul>
+    <div class="minus-plus-wrap brands" data-id="2">
+
+        <button class="btn-font small-font">
+            Pequena
+        </button>
+
+        <button class="btn-font medium-font">
+            Média
+        </button>
+
+        <button class="btn-font large-font">
+            Grande
+        </button>
+
+    </div>
+</nav>                </div>
+                <nav class="post-tags">
+                  <div class="post-tags-item"><a href="https://braziljournal.com/tag/setor-eletrico/" rel="tag">Setor elétrico</a></div><div class="post-tags-item"><a href="https://braziljournal.com/tag/credito/" rel="tag">Crédito</a></div><div class="post-tags-item"><a href="https://braziljournal.com/tag/light/" rel="tag">Light</a></div>                </nav>
+                <div class="no-mobile">
+                  <div class="rowsocial d-xl-flex">
+    <p class="rowsocial-text">
+        <svg class="bjicon-instagram" width="28" height="28" viewBox="0 0 28 28" fill="none"
+            xmlns="http://www.w3.org/2000/svg">
+            <path
+                d="M14.3 6.57373C10.4331 6.57373 7.22906 9.72251 7.22906 13.6447C7.22906 17.5668 10.3778 20.7156 14.3 20.7156C18.2222 20.7156 21.371 17.5116 21.371 13.6447C21.371 9.77775 18.1669 6.57373 14.3 6.57373ZM14.3 18.1745C11.8141 18.1745 9.77019 16.1306 9.77019 13.6447C9.77019 11.1588 11.8141 9.11485 14.3 9.11485C16.7859 9.11485 18.8298 11.1588 18.8298 13.6447C18.8298 16.1306 16.7859 18.1745 14.3 18.1745Z"
+                fill="white" />
+            <path
+                d="M21.6472 8.01017C22.5319 8.01017 23.2492 7.29293 23.2492 6.40816C23.2492 5.5234 22.5319 4.80615 21.6472 4.80615C20.7624 4.80615 20.0452 5.5234 20.0452 6.40816C20.0452 7.29293 20.7624 8.01017 21.6472 8.01017Z"
+                fill="white" />
+            <path
+                d="M25.7903 2.26491C24.354 0.773384 22.3101 0 19.9899 0H8.61015C3.80412 0 0.600098 3.20402 0.600098 8.01005V19.3346C0.600098 21.71 1.37348 23.7539 2.92025 25.2455C4.41178 26.6818 6.40048 27.3999 8.66539 27.3999H19.9347C22.3101 27.3999 24.2988 26.6265 25.7351 25.2455C27.2266 23.8092 28 21.7652 28 19.3899V8.01005C28 5.6899 27.2266 3.7012 25.7903 2.26491ZM25.5694 19.3899C25.5694 21.1023 24.9617 22.4834 23.9674 23.4225C22.973 24.3616 21.592 24.8588 19.9347 24.8588H8.66539C7.00814 24.8588 5.6271 24.3616 4.63274 23.4225C3.63839 22.4281 3.14122 21.0471 3.14122 19.3346V8.01005C3.14122 6.3528 3.63839 4.97176 4.63274 3.97741C5.57185 3.0383 7.00814 2.54112 8.66539 2.54112H20.0452C21.7024 2.54112 23.0835 3.0383 24.0778 4.03265C25.0169 5.027 25.5694 6.40804 25.5694 8.01005V19.3899Z"
+                fill="white" />
+        </svg>
+        <b>Siga o Brazil Journal no Instagram</b>
+    </p>
+    <a class="btn btn-brj btn-lg" href="https://www.instagram.com/braziljournal/" target="_blank" rel="noopener noreferrer" style="margin-left: 20px;">Seguir</a>
+</div>                </div>
+              </div>
+            </div>
+          </section>
+                  </div>
+        <div class="col-12 col-xl-4">
+          <aside class="post-colright">
+            <div class="newsletter-form no-print">
+    <div class="registernews">
+
+        <div class="form-group">
+            <div style="font-family: &quot;Duplicate Slab&quot;,arial,helvetica,sans-serif;font-weight: 600;font-size: 2rem;margin-bottom: 10px; display:none;">
+                Brazil <span style="color: #FBB001;">Journal</span>
+            </div>
+
+            <svg class="icon" width="27" height="21" viewBox="0 0 27 21" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path fill-rule="evenodd" clip-rule="evenodd" d="M23.625 0H2.625C1.18125 0 0 1.18125 0 2.625V18.375C0 19.8188 1.18125 21 2.625 21H23.625C25.0688 21 26.25 19.8188 26.25 18.375V2.625C26.25 1.18125 25.0688 0 23.625 0ZM23.625 5.25L13.125 11.8125L2.625 5.25V2.625L13.125 9.1875L23.625 2.625V5.25Z" fill="black"/>
+            </svg>
+
+            <div class="registernewslabel">Quem faz o PIB lê.<br>Receba o Brazil Journal no seu email</div>
+            <ul style="font-size: 1.15rem;padding-inline-start: 20px;margin-bottom: 30px; font-weight: 500; display:none;">
+                <li style="padding-top: 3px;">A newsletter mais lida por <strong>CEOs, CFOs e gestores</strong> de investimentos.</li>
+                <li><strong>Seja o primeiro</strong> a receber nosso conteúdo.</li>
+                <li>Fique por dentro das <strong>notícias e análises</strong> do mercado.</li>
+            </ul>
+        </div>
+    </div>
+</div>
+<div class="no-print" style="width: 100%;overflow: hidden;min-height: 185px;">
+    <!DOCTYPE html>
+<!-- Begin Mailchimp Signup Form -->
+
+<style type="text/css">
+    /* body{
+        font-family: "Arial";
+    }
+    form{
+        margin: 0;
+        padding: 0;
+    } */
+    .mce-error-response2 {
+        margin: 0 !important;
+        padding: 11px 0 !important;
+        background-color: #ffffff !important;
+        font-weight: 400 !important;
+        z-index: 1;
+        color: #af5d5d !important;
+    }
+
+    .mce-success-response {
+        margin: 0 !important;
+        padding: 11px 0 !important;
+        background-color: #ffffff !important;
+        font-weight: 400 !important;
+        z-index: 1;
+        color: #71af5d !important;
+    }
+
+    .mc-embedded-subscribe2{
+        margin-top: 1rem;
+    }
+    .mc_embed_signup2 .mc-field-group input {
+        display: block;
+        width: 90%;
+        height: 0;
+        padding: 0.375rem 0.75rem;
+        font-size: 1rem;
+        font-weight: 400;
+        line-height: 1.5;
+        color: #495057;
+        background-color: #fff;
+        background-clip: padding-box;
+        border: 1px solid #ced4da;
+        border-radius: 0.25rem;
+        border-radius: 0;
+        transition: border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+        padding-top: 1.375rem;
+        padding-bottom: 1.375rem;
+    }
+
+    .mc_embed_signup2 .mc-field-group input:focus {
+        outline: 0;
+        border-color: #FBB000;
+        box-shadow: 0 0 0 1px rgb(251 176 0 / 20%);
+    }
+
+    .mc_embed_signup2 input.mce_inline_error {
+        border-color: #af5d5d !important;
+    }
+
+    .mc_embed_signup2 div.mce_inline_error {
+
+        margin: 0 !important;
+        padding: 11px 0 !important;
+        background-color: #ffffff !important;
+        font-weight: 400 !important;
+        z-index: 1;
+        color: #af5d5d !important;
+    }
+
+    .btn-mailchimp {
+
+        display: inline-block;
+        font-weight: 400;
+        color: #212529;
+        text-align: center;
+        vertical-align: middle;
+        user-select: none;
+        background-color: transparent;
+        border: 1px solid transparent;
+        padding: 0.375rem 0.75rem;
+        font-size: 1rem;
+        line-height: 1.5;
+        border-radius: 0.25rem;
+        transition: color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+        padding: 0.3125rem 1.25rem;
+        font-size: 1rem;
+        color: #fff;
+        background-color: #000;
+        border-radius: 0;
+        font-family: "Duplicate Sans", arial, helvetica, sans-serif;
+        font-weight: 600;
+        padding-top: 0.6875rem;
+        padding-bottom: 0.6875rem;
+        cursor: pointer;
+    }
+</style>
+<div id="mc_embed_signup" class="mc_embed_signup2">
+    <form
+        action="https://braziljournal.us8.list-manage.com/subscribe/post?u=fb6bb8ccf3058f71466f79eb9&amp;id=850f0f7afd"
+        method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank"
+        novalidate>
+        <div id="mc_embed_signup_scroll">
+            <h2></h2>
+            <div class="indicates-required"><span class="asterisk"></span></div>
+            <div class="mc-field-group">
+
+                <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL"
+                    placeholder="Digite aqui seu email" autocomplete="email">
+            </div>
+            <div id="mce-responses" class="clear">
+                <div class="response mce-error-response2" id="mce-error-response" style="display:none"></div>
+                <div class="response mce-success-response2" id="mce-success-response" style="display:none"></div>
+            </div>
+            <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+            <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text"
+                    name="b_fb6bb8ccf3058f71466f79eb9_850f0f7afd" tabindex="-1" value=""></div>
+            <div class="clear"><input type="submit" value="Inscreva-se" name="subscribe" id="mc-embedded-subscribe"
+                    class="button btn btn-mailchimp mc-embedded-subscribe2"></div>
+        </div>
+    </form>
+</div>
+<script  data-wpmeteor-after="REORDER" data-wpmeteor-defer type="javascript/blocked" data-wpmeteor-type="text/javascript"  data-wpmeteor-src='/wp-content/themes/project_theme/assets/js/mc-validate.js?x67746'></script>
+<!--End mc_embed_signup-->
+<!--End mc_embed_signup-->    
+</div>
+
+
+<!-- <iframe  src="https://braziljournal.com/wp-content/themes/project_theme/template/modules/newsletter/mailchimp-post.php" frameborder="0" width="654" height="200" title="sidebar newsletter"  scrolling="no">
+</iframe> -->
+            <div class="post-colright__sticky">
+              <div id="ad-article-right" class="text-center"></div>              <div class="allnews allnews--feedcolumn">
+                <div id="ad-2x1"></div>
+                <div>
+                    <h2 class="allnews-title">Leia mais</h2>
+                </div>
+                <ul class="allnews-list">
+                                          <li class="allnews-list-noimg">
+                            <article class="boxarticle boxarticle--row">
+                                <p class="boxarticle-infos-tag"><a
+                                        href="https://braziljournal.com/tag/inteligencia-artificial/">Inteligência Artificial</a></p>
+                                <h2 class="boxarticle-infos-title"><a
+                                        href="https://braziljournal.com/o-llama-de-zuckerberg-e-gratuito-e-aberto-e-quer-destronar-o-chatgpt/">O Llama de Zuckerberg é gratuito e aberto – e quer destronar o ChatGPT</a>
+                                </h2>
+                                <p class="boxarticle-infos-text"></p>
+                            </article>
+                        </li>
+                                              <li class="allnews-list-noimg">
+                            <article class="boxarticle boxarticle--row">
+                                <p class="boxarticle-infos-tag"><a
+                                        href="https://braziljournal.com/tag/economia/">Economia</a></p>
+                                <h2 class="boxarticle-infos-title"><a
+                                        href="https://braziljournal.com/milei-mostrou-que-e-possivel-zerar-deficit-duvida-e-se-plano-se-sustenta-diz-goldman/">Milei mostrou que é possível zerar déficit. Dúvida é se plano se sustenta, diz Goldman</a>
+                                </h2>
+                                <p class="boxarticle-infos-text"></p>
+                            </article>
+                        </li>
+                                              <li class="allnews-list-noimg">
+                            <article class="boxarticle boxarticle--row">
+                                <p class="boxarticle-infos-tag"><a
+                                        href="https://braziljournal.com/tag/economia/">Economia</a></p>
+                                <h2 class="boxarticle-infos-title"><a
+                                        href="https://braziljournal.com/selic-a-105-nao-e-tao-alta-quanto-se-diz-diz-alberto-ramos-da-goldman/">Selic a 10,5% não é tão alta quanto se diz, diz Alberto Ramos, da Goldman</a>
+                                </h2>
+                                <p class="boxarticle-infos-text"></p>
+                            </article>
+                        </li>
+                                      </ul>
+              </div>
+            </div>
+            <div class="no-web">
+              <div class="rowsocial d-xl-flex">
+    <p class="rowsocial-text">
+        <svg class="bjicon-instagram" width="28" height="28" viewBox="0 0 28 28" fill="none"
+            xmlns="http://www.w3.org/2000/svg">
+            <path
+                d="M14.3 6.57373C10.4331 6.57373 7.22906 9.72251 7.22906 13.6447C7.22906 17.5668 10.3778 20.7156 14.3 20.7156C18.2222 20.7156 21.371 17.5116 21.371 13.6447C21.371 9.77775 18.1669 6.57373 14.3 6.57373ZM14.3 18.1745C11.8141 18.1745 9.77019 16.1306 9.77019 13.6447C9.77019 11.1588 11.8141 9.11485 14.3 9.11485C16.7859 9.11485 18.8298 11.1588 18.8298 13.6447C18.8298 16.1306 16.7859 18.1745 14.3 18.1745Z"
+                fill="white" />
+            <path
+                d="M21.6472 8.01017C22.5319 8.01017 23.2492 7.29293 23.2492 6.40816C23.2492 5.5234 22.5319 4.80615 21.6472 4.80615C20.7624 4.80615 20.0452 5.5234 20.0452 6.40816C20.0452 7.29293 20.7624 8.01017 21.6472 8.01017Z"
+                fill="white" />
+            <path
+                d="M25.7903 2.26491C24.354 0.773384 22.3101 0 19.9899 0H8.61015C3.80412 0 0.600098 3.20402 0.600098 8.01005V19.3346C0.600098 21.71 1.37348 23.7539 2.92025 25.2455C4.41178 26.6818 6.40048 27.3999 8.66539 27.3999H19.9347C22.3101 27.3999 24.2988 26.6265 25.7351 25.2455C27.2266 23.8092 28 21.7652 28 19.3899V8.01005C28 5.6899 27.2266 3.7012 25.7903 2.26491ZM25.5694 19.3899C25.5694 21.1023 24.9617 22.4834 23.9674 23.4225C22.973 24.3616 21.592 24.8588 19.9347 24.8588H8.66539C7.00814 24.8588 5.6271 24.3616 4.63274 23.4225C3.63839 22.4281 3.14122 21.0471 3.14122 19.3346V8.01005C3.14122 6.3528 3.63839 4.97176 4.63274 3.97741C5.57185 3.0383 7.00814 2.54112 8.66539 2.54112H20.0452C21.7024 2.54112 23.0835 3.0383 24.0778 4.03265C25.0169 5.027 25.5694 6.40804 25.5694 8.01005V19.3899Z"
+                fill="white" />
+        </svg>
+        <b>Siga o Brazil Journal no Instagram</b>
+    </p>
+    <a class="btn btn-brj btn-lg" href="https://www.instagram.com/braziljournal/" target="_blank" rel="noopener noreferrer" style="margin-left: 20px;">Seguir</a>
+</div>            </div>
+          </aside>
+        </div>
+      </div>
+    </div>
+
+    <!-- !maincontent -->
+
+    <!-- maincontent3 -->
+    <section class="topstories">
+      
+<section class="bannerbrj bannerbrj--colorhero tag-negocios">
+    <div class="wrap-bj">
+        <figure class="row no-gutters">
+            <figcaption class="bannerbrj-info col-12 col-md-6">
+                <div>
+                    <a class="badge badge-bj badge-bj-simple"
+                        href="https://braziljournal.com/tag/saude/"
+                        aria-label="saiba mais a sobre Saúde" 
+                    >
+                        Saúde                    </a>
+                    <h1 class="bannerbrj-title">
+                        <a 
+                            href="https://braziljournal.com/hapvida-fecha-built-to-suit-com-a-riza-liberando-r-600-milhoes-de-capex/"
+                            aria-label="saiba mais a sobre Hapvida fecha ‘built to suit’ com a Riza, liberando R$ 600 milhões de capex" 
+                        >
+                            Hapvida fecha ‘built to suit’ com a Riza, liberando R$ 600 milhões de capex                        </a>
+                    </h1>
+                    <!-- <p class="bannerbrj-text"></p>  analisando -->
+                </div>
+            </figcaption>
+            <a
+                class="bannerbrj-img boxarticle-img  boxarticle-imgcol-12 col-md-6"
+                aria-label="saiba mais a sobre Hapvida fecha ‘built to suit’ com a Riza, liberando R$ 600 milhões de capex" 
+                 
+                href="https://braziljournal.com/hapvida-fecha-built-to-suit-com-a-riza-liberando-r-600-milhoes-de-capex/"
+            >
+                <div class="div-control ">
+                    <div class="destaque-shadow"></div>
+                    <picture><source media="(min-width: 800px)" srcset="https://braziljournal.com/wp-content/uploads/2023/04/hapvida-705x397.jpg.webp" /><source media="(min-width: 800px)" srcset="https://braziljournal.com/wp-content/uploads/2023/04/hapvida-705x397.jpg" /><img src="https://braziljournal.com/wp-content/uploads/2023/04/hapvida-705x397.jpg?x67746" alt="Hapvida fecha ‘built to suit’ com a Riza, liberando R$ 600 milhões de capex" loading="lazy""></picture>                </div>
+            </a>
+        </figure>
+    </div>
+</section>    </section>
+    <!-- !maincontent3 -->
+
+    <br><br>
+        
+<div class="post-bannerad-header no-print" style="margin-top: 5px;">
+    <div class="wrap-bj banner-ad banner-ad--header">
+        <div class="banner-ad-wrap">
+            <div id="ad-inside-1"></div>
+        </div>
+    </div>
+</div>
+    <!-- maincontent4 -->
+    <main class="normal-theme" style="margin-bottom: 40px;">
+      <section class="grid-news1">
+        <div class="wrap-bj">
+          <section class="gridarticles">
+            <div class="row">
+              <div class="col-12 col-md-6">
+                
+<article class="boxarticle boxarticle--big">
+    <figure class="boxarticle-wrap">
+        <figcaption class="boxarticle-infos">
+            <div>
+                                            <p class="boxarticle-infos-tag">
+                                <a href="https://braziljournal.com/tag/farmaceuticas/"> Farmacêuticas </a>
+                            </p>
+                        
+                <h2 class="boxarticle-infos-title">
+                    <a href="https://braziljournal.com/eurofarma-recruta-novo-cfo-com-agenda-de-desalavancagem/">
+                        Eurofarma recruta novo CFO com agenda de desalavancagem                    </a>
+                </h2>
+                <!-- <p class="boxarticle-infos-text"></p> Não está em usa, procurando mais informações antes de remover -->
+            </div>
+        </figcaption>
+        <a 
+            class="boxarticle-img "
+            aria-label="saiba mais a sobre Eurofarma recruta novo CFO com agenda de desalavancagem" 
+             
+            href="https://braziljournal.com/eurofarma-recruta-novo-cfo-com-agenda-de-desalavancagem/"
+        >
+            <picture><source media="(min-width: 800px)" srcset="https://braziljournal.com/wp-content/uploads/2024/07/packshot_medicamento_marca_fundo_com_fundo-635x357.png.webp" /><source media="(min-width: 800px)" srcset="https://braziljournal.com/wp-content/uploads/2024/07/packshot_medicamento_marca_fundo_com_fundo-635x357.png" /><img src="https://braziljournal.com/wp-content/uploads/2024/07/packshot_medicamento_marca_fundo_com_fundo-635x357.png?x67746" alt="Eurofarma recruta novo CFO com agenda de desalavancagem" loading="lazy""></picture>        </a>
+    </figure>
+</article>              </div>
+
+              <div class="col-12 col-md-6">
+                <nav class="articleslist articleslist--column">
+                  <ul>
+                    
+<li>
+    <article class="boxarticle ">
+        <figure class="boxarticle-wrap">
+            <figcaption class="boxarticle-infos">
+                                            <p class="boxarticle-infos-tag">
+                                <a href="https://braziljournal.com/tag/banco-safra/">
+                                    Banco Safra 
+                                </a>
+                            </p>
+                                        <h2 class="boxarticle-infos-title">
+                    <a href="https://braziljournal.com/familia-safra-chega-a-acordo-sobre-heranca-alberto-admite-que-foi-tudo-kosher/">
+                        BREAKING:Família Safra chega a acordo sobre herança; Alberto admite que foi tudo kosher                    </a>
+                </h2>
+                <!-- <p class="boxarticle-infos-text"></p> analisando necessidade -->
+            </figcaption>
+            <a 
+                class="bzj-index-horizontal boxarticle-img "
+                aria-label="saiba mais a sobre BREAKING:Família Safra chega a acordo sobre herança; Alberto admite que foi tudo kosher" 
+                 
+                href="https://braziljournal.com/familia-safra-chega-a-acordo-sobre-heranca-alberto-admite-que-foi-tudo-kosher/"
+            >
+                <picture><source media="(min-width: 800px)" srcset="https://braziljournal.com/wp-content/uploads/2024/07/safra-3-304x171.jpg.webp" /><source media="(min-width: 800px)" srcset="https://braziljournal.com/wp-content/uploads/2024/07/safra-3-304x171.jpg" /><img src="https://braziljournal.com/wp-content/uploads/2024/07/safra-3-304x171.jpg?x67746" alt="Família Safra chega a acordo sobre herança; Alberto admite que foi tudo kosher" loading="lazy""></picture>            </a>
+        </figure>
+    </article>
+</li>
+<li>
+    <article class="boxarticle ">
+        <figure class="boxarticle-wrap">
+            <figcaption class="boxarticle-infos">
+                                            <p class="boxarticle-infos-tag">
+                                <a href="https://braziljournal.com/tag/mercado-imobiliario/">
+                                    Mercado imobiliário 
+                                </a>
+                            </p>
+                                        <h2 class="boxarticle-infos-title">
+                    <a href="https://braziljournal.com/spread-killer-como-o-clube-fii-quer-baratear-a-negociacao-de-cris-e-cras/">
+                        ‘Spread killer’. Como o Clube FII quer baratear a negociação de CRIs e CRAs                    </a>
+                </h2>
+                <!-- <p class="boxarticle-infos-text"></p> analisando necessidade -->
+            </figcaption>
+            <a 
+                class="bzj-index-horizontal boxarticle-img "
+                aria-label="saiba mais a sobre ‘Spread killer’. Como o Clube FII quer baratear a negociação de CRIs e CRAs" 
+                 
+                href="https://braziljournal.com/spread-killer-como-o-clube-fii-quer-baratear-a-negociacao-de-cris-e-cras/"
+            >
+                <picture><source media="(min-width: 800px)" srcset="https://braziljournal.com/wp-content/uploads/2024/07/shutterstock_2286572337-304x171.jpg.webp" /><source media="(min-width: 800px)" srcset="https://braziljournal.com/wp-content/uploads/2024/07/shutterstock_2286572337-304x171.jpg" /><img src="https://braziljournal.com/wp-content/uploads/2024/07/shutterstock_2286572337-304x171.jpg?x67746" alt="‘Spread killer’. Como o Clube FII quer baratear a negociação de CRIs e CRAs" loading="lazy""></picture>            </a>
+        </figure>
+    </article>
+</li>
+<li>
+    <article class="boxarticle ">
+        <figure class="boxarticle-wrap">
+            <figcaption class="boxarticle-infos">
+                                            <p class="boxarticle-infos-tag">
+                                <a href="https://braziljournal.com/tag/future-of-work/">
+                                    Future of Work 
+                                </a>
+                            </p>
+                                        <h2 class="boxarticle-infos-title">
+                    <a href="https://braziljournal.com/a-ia-vai-mudar-o-mercado-de-trabalho-mas-a-mudanca-nao-sera-igual-para-todos/">
+                        A IA vai mudar o mercado de trabalho – mas a mudança não será igual para todos                    </a>
+                </h2>
+                <!-- <p class="boxarticle-infos-text"></p> analisando necessidade -->
+            </figcaption>
+            <a 
+                class="bzj-index-horizontal boxarticle-img "
+                aria-label="saiba mais a sobre A IA vai mudar o mercado de trabalho – mas a mudança não será igual para todos" 
+                 
+                href="https://braziljournal.com/a-ia-vai-mudar-o-mercado-de-trabalho-mas-a-mudanca-nao-sera-igual-para-todos/"
+            >
+                <picture><source media="(min-width: 800px)" srcset="https://braziljournal.com/wp-content/uploads/2024/07/shutterstock_2367501097-304x171.jpg.webp" /><source media="(min-width: 800px)" srcset="https://braziljournal.com/wp-content/uploads/2024/07/shutterstock_2367501097-304x171.jpg" /><img src="https://braziljournal.com/wp-content/uploads/2024/07/shutterstock_2367501097-304x171.jpg?x67746" alt="A IA vai mudar o mercado de trabalho – mas a mudança não será igual para todos" loading="lazy""></picture>            </a>
+        </figure>
+    </article>
+</li>                  </ul>
+                </nav>
+              </div>
+            </div>
+          </section>
+          <footer>
+            <a class="btn btn-brj btn-block" href="https://braziljournal.com">Ir para a página inicial</a>
+          </footer>
+        </div>
+      </section>
+    </main>
+    <!-- !maincontent4 -->
+
+    <!-- footerbrj-->
+    <footer class="footerbrj">
+    <div class="wrap-bj">
+        <div class="row">
+        <div class="col-12 col-sm-7">
+                <h1 class="logobrj logobrj--negative"><a class="no-translate" href="/">Brazil&nbsp;<span>Journal</span></a>
+                </h1>
+                <nav class="menusocial  undefined">
+                    <ul>
+                    <li>
+                        <a class="menusocial-item" href="https://www.facebook.com/braziljournalnews" title="Acesse" target="_blank">
+                        <svg width="27" height="27" viewBox="0 0 27 27" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path fill-rule="evenodd" clip-rule="evenodd" d="M13.4484 26.9999L13.4605 27H13.4563L13.4484 26.9999ZM13.5437 27H13.5395L13.5516 26.9999L13.5437 27ZM13.4072 26.9997L13.4202 26.9998H13.4127L13.4072 26.9997V26.9997ZM13.5873 26.9998H13.5798L13.5928 26.9997L13.5873 26.9998ZM13.3674 26.9994L13.3761 26.9995L13.3692 26.9994H13.3674ZM13.6308 26.9994L13.6239 26.9995L13.6326 26.9994H13.6308ZM13.6744 26.9989L13.6713 26.999L13.6831 26.9988L13.6744 26.9989ZM13.3169 26.9988L13.3287 26.999L13.3256 26.9989L13.3169 26.9988V26.9988ZM13.7179 26.9983L13.7108 26.9984L13.7253 26.9982L13.7179 26.9983ZM13.2747 26.9982L13.2892 26.9984L13.2821 26.9983L13.2747 26.9982V26.9982ZM13.7614 26.9976L13.7518 26.9977L13.7651 26.9975L13.7614 26.9976ZM13.2349 26.9975L13.2482 26.9977L13.2386 26.9976L13.2349 26.9975ZM13.1854 26.9965L13.1973 26.9967L13.1952 26.9967L13.1854 26.9965ZM13.8048 26.9967L13.8027 26.9967L13.8146 26.9965L13.8048 26.9967ZM13.1421 26.9954L13.1584 26.9958L13.1518 26.9956L13.1421 26.9954ZM13.8482 26.9956L13.8416 26.9958L13.8579 26.9954L13.8482 26.9956ZM13.8916 26.9945L13.881 26.9948L13.8977 26.9943L13.8916 26.9945V26.9945ZM13.1023 26.9943L13.119 26.9948L13.1084 26.9945L13.1023 26.9943V26.9943ZM13.0644 26.9931L13.0762 26.9935L13.065 26.9931L13.0548 26.9928L13.0644 26.9931V26.9931ZM13.935 26.9931L13.9238 26.9935L13.9356 26.9931L13.9452 26.9928L13.935 26.9931ZM13.9782 26.9917L13.9723 26.9919L13.9905 26.9913L13.9782 26.9917ZM13.0095 26.9913L13.0277 26.9919L13.0218 26.9917L13.0095 26.9913ZM12.97 26.9898L12.9891 26.9905L12.9785 26.9901L12.97 26.9898ZM14.0215 26.9901L14.0109 26.9905L14.03 26.9898L14.0215 26.9901ZM12.9312 26.9882L12.9499 26.989L12.9353 26.9885L12.9312 26.9882V26.9882ZM14.0647 26.9885L14.0501 26.989L14.0688 26.9882L14.0647 26.9885V26.9885ZM12.8769 26.9859L12.8969 26.9868L12.892 26.9866L12.8769 26.9859ZM14.108 26.9866L14.1031 26.9868L14.1231 26.9859L14.108 26.9866ZM12.8379 26.9841L12.8587 26.985L12.8489 26.9846L12.8379 26.9841ZM14.1511 26.9846L14.1413 26.985L14.1621 26.9841L14.1511 26.9846ZM12.7995 26.9821L12.8205 26.9832L12.8058 26.9825L12.7995 26.9821ZM14.1942 26.9825L14.1795 26.9832L14.2005 26.9821L14.1942 26.9825ZM14.2374 26.9802L14.2183 26.9812L14.2352 26.9803L14.2552 26.9792L14.2374 26.9802ZM12.7648 26.9803L12.7817 26.9812L12.7626 26.9802L12.7448 26.9792L12.7648 26.9803ZM14.2804 26.9778L14.272 26.9783L14.2934 26.9771L14.2804 26.9778ZM12.7066 26.9771L12.728 26.9783L12.7196 26.9778L12.7066 26.9771ZM12.6685 26.9748L12.6899 26.9761L12.6766 26.9753L12.6685 26.9748V26.9748ZM14.3234 26.9753L14.3101 26.9761L14.3315 26.9748L14.3234 26.9753ZM12.6322 26.9725L12.6515 26.9737L12.6335 26.9726L12.6155 26.9715L12.6322 26.9725ZM14.3665 26.9726L14.3485 26.9737L14.3678 26.9725L14.3845 26.9715L14.3665 26.9726V26.9726ZM14.4094 26.9698L14.403 26.9703L14.4234 26.9689L14.4094 26.9698V26.9698ZM12.5766 26.9689L12.597 26.9703L12.5906 26.9698L12.5766 26.9689V26.9689ZM12.5386 26.9663L12.5586 26.9677L12.5477 26.9669L12.5386 26.9663ZM14.4523 26.9669L14.4414 26.9677L14.4614 26.9663L14.4523 26.9669V26.9669ZM12.5007 26.9636L12.5191 26.9649L12.5048 26.9639L12.5007 26.9636ZM14.4952 26.9639L14.4809 26.9649L14.4993 26.9636L14.4952 26.9639ZM12.4497 26.9597L12.4658 26.9609L12.4619 26.9607L12.4497 26.9597V26.9597ZM14.5381 26.9607L14.5342 26.9609L14.5503 26.9597L14.5381 26.9607V26.9607ZM14.5808 26.9573L14.5731 26.9579L14.5895 26.9566L14.5808 26.9573V26.9573ZM12.4105 26.9566L12.4269 26.9579L12.4192 26.9573L12.4105 26.9566V26.9566ZM12.3722 26.9535L12.3861 26.9546L12.3763 26.9539L12.3722 26.9535ZM14.6237 26.9539L14.6139 26.9546L14.6278 26.9535L14.6237 26.9539V26.9539ZM12.3301 26.95L12.3343 26.9503L12.3336 26.9503L12.3301 26.95V26.95ZM14.6664 26.9503L14.6657 26.9503L14.6699 26.95L14.6664 26.9503V26.9503ZM14.7091 26.9465L14.7053 26.9468L14.7148 26.946L14.7091 26.9465V26.9465ZM12.2852 26.946L12.2947 26.9468L12.2909 26.9465L12.2852 26.946V26.946ZM12.2456 26.9424L12.2527 26.9431L12.2483 26.9427L12.2456 26.9424ZM14.7517 26.9427L14.7473 26.9431L14.7544 26.9424L14.7517 26.9427ZM11.3906 26.8359C4.94021 25.822 0 20.2334 0 13.5C0 6.04917 6.04916 0 13.5 0C20.9508 0 27 6.04917 27 13.5C27 20.2334 22.0598 25.822 15.6094 26.8359V17.4024H18.755L19.3535 13.5H15.6094V10.9677C15.6094 9.90005 16.1324 8.85939 17.8094 8.85939H19.5117V5.53712C19.5117 5.53712 17.9668 5.27345 16.4898 5.27345C13.4061 5.27345 11.3906 7.14236 11.3906 10.5258V13.5H7.96289V17.4024H11.3906V26.8359Z" fill="white"/>
+                        </svg>  
+                        </a>
+                    </li>
+                    <li>
+                        <a class="menusocial-item" href="https://twitter.com/BrazilJournal" title="Acesse" target="_blank">
+                        <svg width="27" height="28" viewBox="0 0 27 28" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M25.0944 24.7697L16.2017 11.8971L15.1963 10.4411L8.83525 1.23328L8.30827 0.470074H0.491699L2.39788 3.23031L10.8555 15.475L11.8609 16.9291L18.6565 26.7677L19.1835 27.5299H27.0001L25.0939 24.7697H25.0944ZM20.113 25.7682L13.053 15.5468L12.0476 14.0918L3.85486 2.23179H7.37875L14.0042 11.8233L15.0096 13.2784L23.6369 25.7682H20.113Z" fill="white"/>
+                            <path d="M12.0476 14.0923L13.053 15.5473L11.8609 16.9296L2.71605 27.5299H0.46106L10.8555 15.475L12.0476 14.0923Z" fill="white"/>
+                            <path d="M26.0597 0.470074L16.2017 11.8971L15.0101 13.2784L14.0047 11.8233L15.1963 10.4416L21.8741 2.69723L23.8043 0.470074H26.0597Z" fill="white"/>
+                        </svg>
+
+                        </a>
+                    </li>
+                    <li>
+                        <a class="menusocial-item" href="https://www.instagram.com/braziljournal/" title="Acesse" target="_blank">
+                        <svg width="28" height="28" viewBox="0 0 28 28" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M14.3 6.57373C10.4331 6.57373 7.22906 9.72251 7.22906 13.6447C7.22906 17.5668 10.3778 20.7156 14.3 20.7156C18.2222 20.7156 21.371 17.5116 21.371 13.6447C21.371 9.77775 18.1669 6.57373 14.3 6.57373ZM14.3 18.1745C11.8141 18.1745 9.77019 16.1306 9.77019 13.6447C9.77019 11.1588 11.8141 9.11485 14.3 9.11485C16.7859 9.11485 18.8298 11.1588 18.8298 13.6447C18.8298 16.1306 16.7859 18.1745 14.3 18.1745Z" fill="white"/>
+                            <path d="M21.6472 8.01017C22.5319 8.01017 23.2492 7.29293 23.2492 6.40816C23.2492 5.5234 22.5319 4.80615 21.6472 4.80615C20.7624 4.80615 20.0452 5.5234 20.0452 6.40816C20.0452 7.29293 20.7624 8.01017 21.6472 8.01017Z" fill="white"/>
+                            <path d="M25.7903 2.26491C24.354 0.773384 22.3101 0 19.9899 0H8.61015C3.80412 0 0.600098 3.20402 0.600098 8.01005V19.3346C0.600098 21.71 1.37348 23.7539 2.92025 25.2455C4.41178 26.6818 6.40048 27.3999 8.66539 27.3999H19.9347C22.3101 27.3999 24.2988 26.6265 25.7351 25.2455C27.2266 23.8092 28 21.7652 28 19.3899V8.01005C28 5.6899 27.2266 3.7012 25.7903 2.26491ZM25.5694 19.3899C25.5694 21.1023 24.9617 22.4834 23.9674 23.4225C22.973 24.3616 21.592 24.8588 19.9347 24.8588H8.66539C7.00814 24.8588 5.6271 24.3616 4.63274 23.4225C3.63839 22.4281 3.14122 21.0471 3.14122 19.3346V8.01005C3.14122 6.3528 3.63839 4.97176 4.63274 3.97741C5.57185 3.0383 7.00814 2.54112 8.66539 2.54112H20.0452C21.7024 2.54112 23.0835 3.0383 24.0778 4.03265C25.0169 5.027 25.5694 6.40804 25.5694 8.01005V19.3899Z" fill="white"/>
+                        </svg>
+                        </a>
+                    </li>
+                    <li>
+                    <a class="menusocial-item" href="https://www.linkedin.com/company/brazil-journal/" title="Acesse" target="_blank">
+                        <svg width="27" height="27" viewBox="0 0 27 27" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path fill-rule="evenodd" clip-rule="evenodd" d="M23.7013 0C25.5219 0 27 1.47814 27 3.29875V23.7013C27 25.5219 25.5219 27 23.7013 27H3.29875C1.47814 27 0 25.5219 0 23.7013V3.29875C0 1.47814 1.47809 0 3.29875 0H23.7013V0ZM8.46181 22.3213V10.4183H4.50462V22.3213H8.46181ZM22.7285 22.3213V15.4954C22.7285 11.8392 20.7764 10.1383 18.1733 10.1383C16.0742 10.1383 15.134 11.2927 14.6075 12.1035V10.4183H10.6513C10.7038 11.5352 10.6513 22.3213 10.6513 22.3213H14.6075V15.6738C14.6075 15.318 14.6331 14.9623 14.7379 14.708C15.0234 13.9974 15.6749 13.2613 16.7679 13.2613C18.1988 13.2613 18.7722 14.3532 18.7722 15.9527V22.3213H22.7285V22.3213ZM6.50995 4.6787C5.15605 4.6787 4.27148 5.5688 4.27148 6.73545C4.27148 7.87757 5.12916 8.79219 6.45759 8.79219H6.48311C7.86291 8.79219 8.72179 7.87757 8.72179 6.73545C8.69622 5.57044 7.86533 4.68123 6.50995 4.6787V4.6787Z" fill="white"/>
+                        </svg>
+                        </a>
+                    </li>
+                    <li>
+                        <a class="menusocial-item" href="https://www.youtube.com/channel/UCitcBG_14yPhOxpA7xkteug" title="Acesse" target="_blank">
+                        <svg width="27" height="27" viewBox="0 0 27 27" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path fill-rule="evenodd" clip-rule="evenodd" d="M24.0487 4.56777C25.2104 4.88032 26.1253 5.8012 26.4358 6.97037C27 9.08964 27 13.5113 27 13.5113C27 13.5113 27 17.9331 26.4358 20.0523C26.1253 21.2215 25.2104 22.104 24.0487 22.4166C21.9431 22.9844 13.5 22.9844 13.5 22.9844C13.5 22.9844 5.05689 22.9844 2.95123 22.4167C1.78958 22.104 0.874686 21.2216 0.564185 20.0523C0 17.9332 0 13.5114 0 13.5114C0 13.5114 0 9.08964 0.564185 6.97042C0.874686 5.8012 1.78958 4.88038 2.95123 4.56782C5.05689 4 13.5 4 13.5 4C13.5 4 21.9431 4 24.0487 4.56777ZM10.7386 9.49672V17.5259L17.7954 13.5114L10.7386 9.49672Z" fill="white"/>
+                        </svg>
+                        </a>
+                    </li>
+                    </ul>
+                </nav>
+        </div>
+        <nav class="col-12 col-sm-5 footerbrj-menu">
+            <div class="menu-footer-menu-container"><ul id="menu-footer-menu" class="menu"><li id="menu-item-373" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-373"><a href="https://braziljournal.com/quem-faz/">Quem faz</a></li>
+<li id="menu-item-374" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-374"><a href="https://braziljournal.com/brands/">Brands</a></li>
+<li id="menu-item-370" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-370"><a href="https://braziljournal.com/termos-de-uso/">Termos de uso</a></li>
+<li id="menu-item-49395" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy menu-item-49395"><a rel="privacy-policy" href="https://braziljournal.com/politica-de-privacidade/">Política de Privacidade</a></li>
+<li id="menu-item-371" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-371"><a href="https://braziljournal.com/anuncie/">Anuncie</a></li>
+</ul></div>            <ul><li class="newscta anchor-item"><a href="javascript:(0)" data-toggle="modal" data-target="#modalNews">Newsletter</a></li></ul>
+        </nav>
+        </div>
+        <article class="footerbrj-copyright">
+        <p>© 2016-2024  Brazil Journal - Todos os direitos reservados</p>
+        </article>
+    </div>
+</footer>    <!-- footerbrj-->
+
+  </div><!-- !div main -->
+
+  
+<div id="menubrj-overlay" class="menubrj-overlay"></div>
+<div class="modal modal-brj fade modalsearch" tabindex="-1" role="dialog" aria-hidden="true" id="modalSearch">
+    <div class="modal-dialog modal-dialog-centered modal-xl" role="document">
+        <div class="modal-content">
+            <button class="modal-brj-btnclose" data-dismiss="modal" aria-label="Close"><img
+                    src="https://braziljournal.com/wp-content/themes/project_theme//assets/img/icobj-cross-white.svg?x67746" alt="Close"></button>
+            <div class="modal-body">
+                <button class="modal-brj-btnclose" data-dismiss="modal" aria-label="Close">
+                    <img src="https://braziljournal.com/wp-content/themes/project_theme//assets/img/icobj-cross.svg?x67746" alt="Close">
+                </button>
+                <form role="search" method="get" id="searchform" action="https://braziljournal.com/">
+                    <div class="input-group input-group-brj input-group-lg">
+                        <div class="input-group-prepend">
+                            <div class="input-group-text">
+                                <svg width="21" height="21" viewBox="0 0 21 21" fill="none"
+                                    xmlns="http://www.w3.org/2000/svg">
+                                    <path fill-rule="evenodd" clip-rule="evenodd"
+                                        d="M9.03765 18.0753C14.029 18.0753 18.0753 14.029 18.0753 9.03765C18.0753 4.04629 14.029 -3.06614e-07 9.03765 -1.97524e-07C4.04629 -8.84345e-08 8.84345e-08 4.04629 1.97524e-07 9.03765C3.06614e-07 14.029 4.04629 18.0753 9.03765 18.0753ZM9.03765 15.6105C12.6677 15.6105 15.6105 12.6677 15.6105 9.03765C15.6105 5.40757 12.6677 2.46481 9.03765 2.46481C5.40757 2.46481 2.46481 5.40757 2.46481 9.03765C2.46481 12.6677 5.40757 15.6105 9.03765 15.6105Z"
+                                        fill="#495057" />
+                                    <rect x="14.1008" y="16.4248" width="2.46481" height="6.57283"
+                                        transform="rotate(-45.8873 14.1008 16.4248)" fill="#495057" />
+                                </svg>
+                            </div>
+                        </div>
+                        <input type="text" name="s" id="search" class="form-control form-control-brj" data-swplive="true" data-swpparentel=".cs-header .cs-search-live-result" placeholder="Faça a sua busca" value="" autocomplete="off" aria-owns="searchwp_live_search_results_6265ed6fe1b60" aria-autocomplete="both"/>
+
+
+                        <div class="input-group-append">
+                            <!-- Para desativar o botão visualmente adicione a class .off-->
+                            <button class="btn inputbrj-btnclear" type="reset"><i
+                                    class="fa fa-times-circle"></i></button>
+                        </div>
+                    </div>
+                </form>
+
+                <div class="allnews cs-header">
+                    <div class="cs-search-live-result">
+                        <div aria-expanded="false" class="searchwp-live-search-results" id="searchwp_live_search_results_6265ed6fe1b60" role="listbox" tabindex="0"></div>
+                    </div>
+
+                    <header class="header-pagedesc">
+                        <h2 class="header-pagedesc-title" style="font-size: 2.5rem;">Top Shared</h2>
+                    </header>
+
+                  <ul id="allnews" class="allnews-list">
+
+                    
+                                                                                    <span style="display:none;">string(4) "2605"
+</span>
+
+
+                        
+<li>
+    <article class="boxarticle boxarticle--row">
+    <figure class="boxarticle-wrap">
+        <figcaption class="boxarticle-infos">
+            <div>
+                <p class="boxarticle-infos-tag">
+                    <a href="https://braziljournal.com/tag/follow-on-e-block-trade/">Follow-on &amp; Block trade</a>
+                </p>
+                <h2 class="boxarticle-infos-title">
+                    <a href="https://braziljournal.com/na-alocacao-da-sabesp-um-presente-para-poucos/">
+                        Na alocação da Sabesp, um presente para poucos                    </a>
+                </h2>
+                <p class="boxarticle-infos-text"></p>
+            </div>
+        </figcaption>
+        <a class="boxarticle-img"
+            aria-label="saiba mais a sobre Na alocação da Sabesp, um presente para poucos" 
+
+             href="https://braziljournal.com/na-alocacao-da-sabesp-um-presente-para-poucos/"
+        >
+            <picture><source media="(min-width: 800px)" srcset="https://braziljournal.com/wp-content/uploads/2024/07/shutterstock_1597336006-414x233.jpg.webp" /><source media="(min-width: 800px)" srcset="https://braziljournal.com/wp-content/uploads/2024/07/shutterstock_1597336006-414x233.jpg" /><img src="https://braziljournal.com/wp-content/uploads/2024/07/shutterstock_1597336006-414x233.jpg?x67746" alt="Na alocação da Sabesp, um presente para poucos" loading="lazy""></picture>        </a>
+    </figure>
+    </article>
+</li>
+
+                                                                                        <span style="display:none;">string(4) "2566"
+</span>
+
+
+                        
+<li>
+    <article class="boxarticle boxarticle--row">
+    <figure class="boxarticle-wrap">
+        <figcaption class="boxarticle-infos">
+            <div>
+                <p class="boxarticle-infos-tag">
+                    <a href="https://braziljournal.com/tag/gestores/">Gestores</a>
+                </p>
+                <h2 class="boxarticle-infos-title">
+                    <a href="https://braziljournal.com/play/demosthenes-madureira-da-bw-e-vrb-crises-passam-todo-gestor-aprendeu-essa-licao/">
+                        <span>“</span>Os multimercados estão assim porque acreditaram no Brasil,<span>”</span> diz CEO da BW e VRB                    </a>
+                </h2>
+                <p class="boxarticle-infos-text"></p>
+            </div>
+        </figcaption>
+        <a class="boxarticle-img"
+            aria-label="saiba mais a sobre “Os multimercados estão assim porque acreditaram no Brasil,” diz CEO da BW e VRB" 
+
+             data-video='https://vimeo.com/986030485'  href="https://braziljournal.com/play/demosthenes-madureira-da-bw-e-vrb-crises-passam-todo-gestor-aprendeu-essa-licao/"
+        >
+                                    <svg class="play-btn" width="40" height="44" viewBox="0 0 40 44" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M37.1996 18.2092C40.1688 19.8643 40.1688 24.1357 37.1996 25.7908L6.95315 42.6515C4.06031 44.264 0.500002 42.1726 0.500002 38.8607L0.500003 5.13934C0.500003 1.8274 4.06031 -0.264048 6.95316 1.34854L37.1996 18.2092Z" fill="white"/>
+                        </svg>
+                        <span class="video-duration-badge" data-time="986042749"></span>
+                    <picture><source media="(min-width: 800px)" srcset="https://braziljournal.com/wp-content/uploads/2024/07/DEMOTESHES_FOTO_V6-414x233.jpg.webp" /><source media="(min-width: 800px)" srcset="https://braziljournal.com/wp-content/uploads/2024/07/DEMOTESHES_FOTO_V6-414x233.jpg" /><img src="https://braziljournal.com/wp-content/uploads/2024/07/DEMOTESHES_FOTO_V6-414x233.jpg?x67746" alt="“Os multimercados estão assim porque acreditaram no Brasil,” diz CEO da BW e VRB" loading="lazy""></picture>        </a>
+    </figure>
+    </article>
+</li>
+
+                                                                                        <span style="display:none;">string(4) "2450"
+</span>
+
+
+                        
+<li>
+    <article class="boxarticle boxarticle--row">
+    <figure class="boxarticle-wrap">
+        <figcaption class="boxarticle-infos">
+            <div>
+                <p class="boxarticle-infos-tag">
+                    <a href="https://braziljournal.com/tag/saas/">SaaS</a>
+                </p>
+                <h2 class="boxarticle-infos-title">
+                    <a href="https://braziljournal.com/matera-levanta-r-500-milhoes-com-warburg-pincus-para-acelerar-expansao/">
+                        Matera levanta R$ 500 milhões com Warburg Pincus para acelerar expansão                    </a>
+                </h2>
+                <p class="boxarticle-infos-text"></p>
+            </div>
+        </figcaption>
+        <a class="boxarticle-img"
+            aria-label="saiba mais a sobre Matera levanta R$ 500 milhões com Warburg Pincus para acelerar expansão" 
+
+             href="https://braziljournal.com/matera-levanta-r-500-milhoes-com-warburg-pincus-para-acelerar-expansao/"
+        >
+            <picture><source media="(min-width: 800px)" srcset="https://braziljournal.com/wp-content/uploads/2024/07/Matera-414x233.jpg.webp" /><source media="(min-width: 800px)" srcset="https://braziljournal.com/wp-content/uploads/2024/07/Matera-414x233.jpg" /><img src="https://braziljournal.com/wp-content/uploads/2024/07/Matera-414x233.jpg?x67746" alt="Matera levanta R$ 500 milhões com Warburg Pincus para acelerar expansão" loading="lazy""></picture>        </a>
+    </figure>
+    </article>
+</li>
+
+                                                                                        <span style="display:none;">string(4) "2339"
+</span>
+
+
+                        
+<li>
+    <article class="boxarticle boxarticle--row">
+    <figure class="boxarticle-wrap">
+        <figcaption class="boxarticle-infos">
+            <div>
+                <p class="boxarticle-infos-tag">
+                    <a href="https://braziljournal.com/tag/saneamento/">Saneamento</a>
+                </p>
+                <h2 class="boxarticle-infos-title">
+                    <a href="https://braziljournal.com/play/aegea-o-futuro-sem-a-sabesp/">
+                        Aegea: o futuro sem a Sabesp                    </a>
+                </h2>
+                <p class="boxarticle-infos-text"></p>
+            </div>
+        </figcaption>
+        <a class="boxarticle-img"
+            aria-label="saiba mais a sobre Aegea: o futuro sem a Sabesp" 
+
+             data-video='https://vimeo.com/982385126'  href="https://braziljournal.com/play/aegea-o-futuro-sem-a-sabesp/"
+        >
+                                    <svg class="play-btn" width="40" height="44" viewBox="0 0 40 44" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M37.1996 18.2092C40.1688 19.8643 40.1688 24.1357 37.1996 25.7908L6.95315 42.6515C4.06031 44.264 0.500002 42.1726 0.500002 38.8607L0.500003 5.13934C0.500003 1.8274 4.06031 -0.264048 6.95316 1.34854L37.1996 18.2092Z" fill="white"/>
+                        </svg>
+                        <span class="video-duration-badge" data-time="982729002"></span>
+                    <picture><source media="(min-width: 800px)" srcset="https://braziljournal.com/wp-content/uploads/2023/08/aegea-414x233.jpg.webp" /><source media="(min-width: 800px)" srcset="https://braziljournal.com/wp-content/uploads/2023/08/aegea-414x233.jpg" /><img src="https://braziljournal.com/wp-content/uploads/2023/08/aegea-414x233.jpg?x67746" alt="Aegea: o futuro sem a Sabesp" loading="lazy""></picture>        </a>
+    </figure>
+    </article>
+</li>
+
+                                                                                        <span style="display:none;">string(4) "2198"
+</span>
+
+
+                        
+<li>
+    <article class="boxarticle boxarticle--row">
+    <figure class="boxarticle-wrap">
+        <figcaption class="boxarticle-infos">
+            <div>
+                <p class="boxarticle-infos-tag">
+                    <a href="https://braziljournal.com/tag/banco-safra/">Banco Safra</a>
+                </p>
+                <h2 class="boxarticle-infos-title">
+                    <a href="https://braziljournal.com/familia-safra-chega-a-acordo-sobre-heranca-alberto-admite-que-foi-tudo-kosher/">
+                        BREAKING:Família Safra chega a acordo sobre herança; Alberto admite que foi tudo kosher                    </a>
+                </h2>
+                <p class="boxarticle-infos-text"></p>
+            </div>
+        </figcaption>
+        <a class="boxarticle-img"
+            aria-label="saiba mais a sobre BREAKING:Família Safra chega a acordo sobre herança; Alberto admite que foi tudo kosher" 
+
+             href="https://braziljournal.com/familia-safra-chega-a-acordo-sobre-heranca-alberto-admite-que-foi-tudo-kosher/"
+        >
+            <picture><source media="(min-width: 800px)" srcset="https://braziljournal.com/wp-content/uploads/2024/07/safra-3-414x233.jpg.webp" /><source media="(min-width: 800px)" srcset="https://braziljournal.com/wp-content/uploads/2024/07/safra-3-414x233.jpg" /><img src="https://braziljournal.com/wp-content/uploads/2024/07/safra-3-414x233.jpg?x67746" alt="Família Safra chega a acordo sobre herança; Alberto admite que foi tudo kosher" loading="lazy""></picture>        </a>
+    </figure>
+    </article>
+</li>
+
+                                                                                        <span style="display:none;">string(4) "2135"
+</span>
+
+
+                        
+<li>
+    <article class="boxarticle boxarticle--row">
+    <figure class="boxarticle-wrap">
+        <figcaption class="boxarticle-infos">
+            <div>
+                <p class="boxarticle-infos-tag">
+                    <a href="https://braziljournal.com/tag/mercado-de-ideias/">Mercado de ideias</a>
+                </p>
+                <h2 class="boxarticle-infos-title">
+                    <a href="https://braziljournal.com/opiniao-o-debate-inutil-sobre-a-aliquota-do-iva/">
+                        OPINIÃO. O debate inútil sobre a alíquota do IVA                    </a>
+                </h2>
+                <p class="boxarticle-infos-text"></p>
+            </div>
+        </figcaption>
+        <a class="boxarticle-img"
+            aria-label="saiba mais a sobre OPINIÃO. O debate inútil sobre a alíquota do IVA" 
+
+             href="https://braziljournal.com/opiniao-o-debate-inutil-sobre-a-aliquota-do-iva/"
+        >
+            <picture><source media="(min-width: 800px)" srcset="https://braziljournal.com/wp-content/uploads/2024/07/iva1-414x233.jpg.webp" /><source media="(min-width: 800px)" srcset="https://braziljournal.com/wp-content/uploads/2024/07/iva1-414x233.jpg" /><img src="https://braziljournal.com/wp-content/uploads/2024/07/iva1-414x233.jpg?x67746" alt="OPINIÃO. O debate inútil sobre a alíquota do IVA" loading="lazy""></picture>        </a>
+    </figure>
+    </article>
+</li>
+
+                                          </ul>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade modalsearch" tabindex="-1" role="dialog" aria-hidden="true" id="modalNews">
+    <div class="modal-dialog modal-dialog-centered modal-lg" role="document">
+        <div id="content-newsletter" class="modal-content">
+
+            <section id="newsletter-box-modal" class="newsletter-box-modal">
+                <div class="wrap-bj">
+                    <header class="header-newsletter">
+                    <h2>Brazil <span>Journal</span></h2>
+                        <button class="newscta"  data-dismiss="modal" aria-label="Close"><img
+                                    src="https://braziljournal.com/wp-content/themes/project_theme//assets/img/icobj-cross.svg?x67746" alt="Close"></button>
+                    </header>
+                    <span class="slogan">Quem faz o PIB lê</span>
+                    <h4>Receba a newsletter mais lida por CEOs, CFOs, empreendedores e investidores.</h4>
+
+                </div>
+<!-- Begin Mailchimp Signup Form -->
+
+<div id="mc_embed_signup" style="margin-bottom:30px;">
+<form action="https://braziljournal.us8.list-manage.com/subscribe/post?u=fb6bb8ccf3058f71466f79eb9&amp;id=850f0f7afd" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+    <div id="mc_embed_signup_scroll" class="newsletter-form">
+        <div class="registernews">
+            <div class="mc-field-group form-group">
+                <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" placeholder="Seu melhor e-mail">
+            </div>
+            <div class="clear btn-box">
+                <input type="hidden" name="tags" value="14133">
+                <input type="submit" value="Inscreva-se" name="subscribe" id="mc-embedded-subscribe" class="button btn">
+            </div>
+        </div>
+        <div id="mce-responses" class="clear">
+            <div class="response" id="mce-error-response" style="display:none"></div>
+            <div class="response" id="mce-success-response" style="display:none"></div>
+        </div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+        <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_fb6bb8ccf3058f71466f79eb9_850f0f7afd" tabindex="-1" value=""></div>
+    
+    </div>
+</form>
+</div>
+<script  data-wpmeteor-after="REORDER" data-wpmeteor-defer type="javascript/blocked" data-wpmeteor-type="text/javascript"  data-wpmeteor-src="/wp-content/themes/project_theme/assets/js/mc-validate.js?x67746"></script>
+<!--End mc_embed_signup-->
+
+            <div class="wrap-bj">
+                Ao se inscrever você concorda com a nossa <a href="https://braziljournal.com/politica-de-privacidade/">Politica de Privacidade</a> e <a href="https://braziljournal.com/termos-de-uso/">Termos de Uso</a>
+            <div>
+
+            </section>
+
+        </div>
+
+    </div>
+</div>
+
+
+<script  data-wpmeteor-after="REORDER" type="javascript/blocked" data-wpmeteor-type="text/javascript" >
+dataLayer.push({
+'post_id':68993,'url':'/light-precisara-de-muito-capex-para-se-viabilizar-diz-ceo/','title':'“Light precisará de muito capex para se viabilizar,” diz CEO','description':'Depois de trocar o management e assessores, e negociar por quase um ano, a Light e seus credores ainda não chegaram a um acordo. Na&hellip;','posttype':'post','postcategory':["Neg\u00f3cios"],'posttags':["Setor el\u00e9trico","Cr\u00e9dito","Light"],});
+</script>
+
+<!-- Croct Start RETIRADO 01/02/2023-->
+<!--script src="https://cdn.croct.io/js/v1/lib/plug.js?appId=fe4d2d1e-ee8a-4c64-8ed1-1533a10b3682" defer></script-->
+<!--script src="https://cdn.croct.io/js/v1/app/fe4d2d1e-ee8a-4c64-8ed1-1533a10b3682/custom.js" defer></script-->
+<!--script src="/wp-content/themes/project_theme/assets/js/croct.js?x67746&amp;uncache=1" defer></script-->
+<!-- Croct End -->
+    <script  data-wpmeteor-after="REORDER" type="javascript/blocked" data-wpmeteor-type="text/javascript" >
+        document.addEventListener( 'wpcf7mailsent', function( event ) {
+            if ( event.detail.contactFormId == '44339' ) {
+                setTimeout(function(){
+                    jQuery('#modalMediaKit').modal('hide');
+                }, 2000);
+            }
+        }, false );
+    </script>
+            <style>
+            .searchwp-live-search-results {
+                opacity: 0;
+                transition: opacity .25s ease-in-out;
+                -moz-transition: opacity .25s ease-in-out;
+                -webkit-transition: opacity .25s ease-in-out;
+                height: 0;
+                overflow: hidden;
+                z-index: 9999995; /* Exceed SearchWP Modal Search Form overlay. */
+                position: absolute;
+                display: none;
+            }
+
+            .searchwp-live-search-results-showing {
+                display: block;
+                opacity: 1;
+                height: auto;
+                overflow: auto;
+            }
+
+            .searchwp-live-search-no-results {
+                padding: 3em 2em 0;
+                text-align: center;
+            }
+
+            .searchwp-live-search-no-min-chars:after {
+                content: "Continue typing";
+                display: block;
+                text-align: center;
+                padding: 2em 2em 0;
+            }
+        </style>
+                <script  data-wpmeteor-after="REORDER" type="javascript/blocked" data-wpmeteor-type="text/javascript" >
+            var _SEARCHWP_LIVE_AJAX_SEARCH_BLOCKS = true;
+            var _SEARCHWP_LIVE_AJAX_SEARCH_ENGINE = 'default';
+            var _SEARCHWP_LIVE_AJAX_SEARCH_CONFIG = 'default';
+        </script>
+        		<!-- Snippet do Google Tag Manager (noscript) adicionado pelo Site Kit -->
+		<noscript>
+			<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NXQ8W79" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+		</noscript>
+		<!-- Finalizar o snippet do Gerenciador de Tags do Google (noscript) adicionado pelo Site Kit -->
+		<link rel='stylesheet' id='dashicons-css' href='https://braziljournal.com/wp-includes/css/dashicons.min.css?x67746&amp;ver=6.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='multiple-authors-widget-css-css' href='https://braziljournal.com/wp-content/plugins/publishpress-authors/src/assets/css/multiple-authors-widget.css?x67746&amp;ver=4.2.1' type='text/css' media='all' />
+<style id='multiple-authors-widget-css-inline-css' type='text/css'>
+:root { --ppa-color-scheme: #655997; --ppa-color-scheme-active: #514779; }
+</style>
+<script  data-wpmeteor-after="REORDER" type="javascript/blocked" data-wpmeteor-type="text/javascript"  data-wpmeteor-src="https://braziljournal.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?x67746&amp;ver=5.8.4" id="swv-js"></script>
+<script  data-wpmeteor-after="REORDER" type="javascript/blocked" data-wpmeteor-type="text/javascript"  id="contact-form-7-js-extra">
+/* <![CDATA[ */
+var wpcf7 = {"api":{"root":"https:\/\/braziljournal.com\/wp-json\/","namespace":"contact-form-7\/v1"},"cached":"1"};
+/* ]]> */
+</script>
+<script  data-wpmeteor-after="REORDER" type="javascript/blocked" data-wpmeteor-type="text/javascript"  data-wpmeteor-src="https://braziljournal.com/wp-content/plugins/contact-form-7/includes/js/index.js?x67746&amp;ver=5.8.4" id="contact-form-7-js"></script>
+<script  data-wpmeteor-after="REORDER" type="javascript/blocked" data-wpmeteor-type="text/javascript"  data-wpmeteor-src="https://braziljournal.com/wp-content/themes/project_theme/assets/js/librarys-js/owl.carousel.min.js?x67746" id="owl-carousel-js-js"></script>
+<script  data-wpmeteor-after="REORDER" type="javascript/blocked" data-wpmeteor-type="text/javascript"  data-wpmeteor-src="https://braziljournal.com/wp-content/themes/project_theme/assets/js/librarys-js/bootstrap.bundle.min.js?x67746" id="bootstrap-js-js"></script>
+<script  data-wpmeteor-after="REORDER" data-wpmeteor-defer type="javascript/blocked" data-wpmeteor-type="text/javascript"  data-wpmeteor-src="https://braziljournal.com/wp-content/themes/project_theme/assets/js/librarys-js/slick.min.js?x67746" id="slick-js-defer-js"></script>
+<script  data-wpmeteor-after="REORDER" data-wpmeteor-async type="javascript/blocked" data-wpmeteor-type="text/javascript"  data-wpmeteor-src="https://braziljournal.com/wp-content/themes/project_theme/assets/js/main.js?x67746" id="main-async-js"></script>
+<script  data-wpmeteor-after="REORDER" type="javascript/blocked" data-wpmeteor-type="text/javascript"  data-wpmeteor-src="https://braziljournal.com/wp-content/themes/project_theme/assets/js/wp-load-more-ajax.js?x67746" id="wp-ajax-load-js-js"></script>
+<script  data-wpmeteor-after="REORDER" type="javascript/blocked" data-wpmeteor-type="text/javascript"  data-wpmeteor-src="https://braziljournal.com/wp-content/themes/project_theme/assets/js/librarys-js/slick.min.js?x67746" id="slick-js-js"></script>
+<script  data-wpmeteor-after="REORDER" type="javascript/blocked" data-wpmeteor-type="text/javascript"  id="swp-live-search-client-js-extra">
+/* <![CDATA[ */
+var searchwp_live_search_params = [];
+searchwp_live_search_params = {"ajaxurl":"https:\/\/braziljournal.com\/wp-admin\/admin-ajax.php","origin_id":68993,"config":{"default":{"engine":"default","input":{"delay":300,"min_chars":3},"results":{"position":"bottom","width":"auto","offset":{"x":0,"y":5}},"spinner":{"lines":12,"length":8,"width":3,"radius":8,"scale":1,"corners":1,"color":"#424242","fadeColor":"transparent","speed":1,"rotate":0,"animation":"searchwp-spinner-line-fade-quick","direction":1,"zIndex":2000000000,"className":"spinner","top":"50%","left":"50%","shadow":"0 0 1px transparent","position":"absolute"}}},"msg_no_config_found":"No valid SearchWP Live Search configuration found!","aria_instructions":"When autocomplete results are available use up and down arrows to review and enter to go to the desired page. Touch device users, explore by touch or with swipe gestures."};;
+/* ]]> */
+</script>
+<script  data-wpmeteor-after="REORDER" type="javascript/blocked" data-wpmeteor-type="text/javascript"  data-wpmeteor-src="https://braziljournal.com/wp-content/plugins/searchwp-live-ajax-search/assets/javascript/dist/script.min.js?x67746&amp;ver=1.7.6" id="swp-live-search-client-js"></script>
+<script  data-wpmeteor-after="REORDER" type="javascript/blocked" data-wpmeteor-type="text/javascript"  data-wpmeteor-src="https://braziljournal.com/wp-content/themes/project_theme/assets/js/btn-font-plus-singles.js?x67746" id="btn-single-js-js"></script>
+<script  data-wpmeteor-after="REORDER" type="javascript/blocked" data-wpmeteor-type="text/javascript"  data-wpmeteor-src="https://player.vimeo.com/api/player.js" id="sdk_js-js"></script>
+<script  data-wpmeteor-after="REORDER" type="javascript/blocked" data-wpmeteor-type="text/javascript"  data-wpmeteor-src="https://braziljournal.com/wp-content/themes/project_theme/assets/js/vimeo_sdk_singles.js?x67746" id="vimeo_sdk_singles-js"></script>
+  <script  data-wpmeteor-after="REORDER" type="javascript/blocked" data-wpmeteor-type="text/javascript" >
+    function janelaSecundaria(URL) {
+      window.open('' + URL + '', '_blank', 'width=590,height=650,toolbar=no,menubar=no');
+    }
+  </script>
+
+</body>
+
+</html>
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Object Caching 424/526 objects using Redis
+Page Caching using Redis 
+Minified using Redis
+
+Served from: _ @ 2024-07-23 19:41:23 by W3 Total Cache
+-->
